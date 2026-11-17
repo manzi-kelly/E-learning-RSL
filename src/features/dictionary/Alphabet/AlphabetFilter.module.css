@@ -1,0 +1,6 @@
+.group { min-inline-size: 0; border: 0; padding: 0; margin: 0; }
+.group legend { font-size: .875rem; font-weight: 720; padding: 0; margin-bottom: .65rem; }
+.options { display: flex; flex-wrap: wrap; gap: .25rem; }
+.options button { min-width: 2.5rem; min-height: 2.75rem; padding: .3rem .45rem; border: 1px solid transparent; background: transparent; color: var(--navy); font-weight: 660; cursor: pointer; }
+.options button:hover { border-color: var(--deep-teal); }
+.options [aria-pressed="true"] { background: var(--navy); color: var(--white); }

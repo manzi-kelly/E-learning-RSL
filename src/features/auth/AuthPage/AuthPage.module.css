@@ -1,0 +1,58 @@
+.page {
+  background: linear-gradient(to right, var(--paper) 0 46%, var(--white) 46% 100%);
+}
+.inner {
+  max-width: var(--content-width);
+  margin-inline: auto;
+  display: grid;
+  grid-template-columns: minmax(0, .88fr) minmax(0, 1fr);
+  gap: clamp(3rem, 10vw, 10rem);
+  padding: clamp(3rem, 7vw, 7rem) var(--gutter);
+}
+.intro { align-self: start; padding-block-start: .5rem; }
+.eyebrow {
+  margin: 0 0 1.6rem;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  font-size: .72rem;
+  letter-spacing: .12em;
+  line-height: 1.55;
+  text-transform: uppercase;
+  color: var(--deep-teal);
+  font-weight: 760;
+}
+.eyebrow::before { content: ""; width: 1.6rem; height: 2px; flex: none; background: var(--teal); }
+.intro h1 {
+  margin: 0;
+  font-size: clamp(2.8rem, 6.5vw, 6.4rem);
+  line-height: .99;
+  letter-spacing: -.075em;
+  font-weight: 770;
+}
+.intro em { display: block; color: var(--deep-teal); font-style: normal; }
+.description { margin: 1.4rem 0 0; max-width: 36ch; color: var(--muted); font-size: clamp(1rem, 1.6vw, 1.19rem); line-height: 1.65; }
+.account { width: 100%; max-width: 32rem; }
+.account h2 { margin: 1.65rem 0 .65rem; font-size: clamp(1.85rem, 4vw, 3rem); line-height: 1.08; letter-spacing: -.055em; }
+.modes { display: flex; gap: 1.5rem; border-bottom: 1px solid var(--line); }
+.modes button {
+  padding: .65rem 0;
+  min-height: 2.75rem;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  font-weight: 700;
+  cursor: pointer;
+}
+.modes button:hover, .modes [aria-pressed="true"] { color: var(--deep-teal); }
+.modes [aria-pressed="true"] { border-bottom-color: var(--deep-teal); }
+.notice { margin: 0 0 1.4rem; color: var(--muted); font-size: .9rem; line-height: 1.55; }
+
+@media (width < 48rem) {
+  .page { background: var(--white); }
+  .inner { grid-template-columns: minmax(0, 1fr); gap: 2rem; padding-block: 0 3rem; }
+  .intro { margin-inline: calc(-1 * var(--gutter)); padding: 2.25rem var(--gutter) 2rem; background: var(--paper); }
+  .eyebrow { margin-bottom: 1rem; }
+  .intro h1 { font-size: clamp(2.65rem, 10vw, 4.5rem); }
+}

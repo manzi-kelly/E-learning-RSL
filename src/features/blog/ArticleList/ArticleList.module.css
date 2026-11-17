@@ -1,0 +1,12 @@
+.library { padding-top: clamp(2.25rem, 5vw, 4rem); }
+.library h2 { margin: 0 0 1.05rem; font-size: clamp(1.7rem, 4vw, 3.25rem); letter-spacing: -.055em; line-height: 1.1; }
+.empty { color: var(--muted); line-height: 1.65; margin: 0; padding-block: 1.15rem; border-block: 1px solid var(--line); }
+.rows { margin: 0; padding: 0; border-top: 1px solid var(--line); list-style: none; }
+.article { display: flex; flex-wrap: wrap; gap: 1rem 3rem; border-bottom: 1px solid var(--line); padding-block: 1.25rem; }
+.article > div { flex: 1 1 20rem; min-width: 0; }
+.article img { width: min(100%, 20rem); height: auto; align-self: start; }
+.article h3 { font-size: 1.5rem; margin: .3rem 0; }
+.article p { line-height: 1.55; color: var(--muted); margin: .35rem 0; }
+.article .category { color: var(--deep-teal); font-weight: 700; font-size: .8rem; }
+.byline { display: flex; flex-wrap: wrap; gap: .25rem .8rem; font-size: .875rem; }
+.article a { display: inline-flex; align-items: center; gap: .5rem; min-height: 2.75rem; color: var(--deep-teal); font-weight: 700; text-underline-offset: .2em; }

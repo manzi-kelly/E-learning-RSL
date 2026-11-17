@@ -1,0 +1,12 @@
+.shell { min-height: 100dvh; background: var(--white); }
+.workspace { display: grid; grid-template-columns: minmax(0, 15.75rem) minmax(0, 1fr); min-height: calc(100dvh - var(--header-height)); }
+.sidebar { background: var(--navy); color: var(--white); min-width: 0; }
+.main { min-width: 0; }
+.main:focus-visible { outline-offset: -4px; }
+.skip { position: absolute; z-index: 3; top: .6rem; inset-inline-start: 1rem; padding: .7rem; transform: translateY(-175%); background: var(--white); }
+.skip:focus { transform: translateY(0); }
+@media (width < 64rem) {
+  .workspace { display: block; }
+  .sidebar { display: none; }
+  .sidebar[data-open="true"] { display: block; }
+}

@@ -1,0 +1,3 @@
+.brand { display: inline-flex; align-items: center; gap: .65rem; min-height: 2.75rem; color: inherit; text-decoration: none; font-weight: 800; letter-spacing: -.045em; white-space: nowrap; }
+.logo { position: relative; display: block; flex: none; width: 2.75rem; height: 2.75rem; }
+.logo img { object-fit: contain; }

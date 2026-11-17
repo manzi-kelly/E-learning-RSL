@@ -1,0 +1,45 @@
+{
+  "homeInitial": {
+    "focus": "BODY",
+    "expanded": "false",
+    "open": "false",
+    "navVisible": "none",
+    "headerCount": 1,
+    "footerCount": 1,
+    "mainCount": 1
+  },
+  "firstTab": "BODY",
+  "tab1": {
+    "tag": "A",
+    "text": "Skip to content"
+  },
+  "menuOpened": {
+    "expanded": "true",
+    "open": "true",
+    "display": "grid",
+    "links": 7
+  },
+  "menuEscape": {
+    "expanded": "false",
+    "focusRestored": true
+  },
+  "menuOutsideClick": "false",
+  "adminInitial": {
+    "expanded": "false",
+    "sidebarDisplay": "none",
+    "sidebars": 1,
+    "topbars": 2,
+    "footers": 0,
+    "publicNav": false
+  },
+  "adminOpened": {
+    "expanded": "true",
+    "sidebarVisible": "block",
+    "focusInside": true
+  },
+  "adminEscape": {
+    "expanded": "false",
+    "focusRestored": true
+  },
+  "errors": []
+}

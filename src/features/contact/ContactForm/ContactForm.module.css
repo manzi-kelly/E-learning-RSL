@@ -1,0 +1,13 @@
+.section h2 { margin: 0; font-size: clamp(1.55rem, 3vw, 2.5rem); line-height: 1.1; letter-spacing: -.05em; }
+.section > p { margin: .85rem 0 1.3rem; color: var(--muted); line-height: 1.6; }
+.form { display: grid; gap: .9rem; }
+.form label { display: block; margin-bottom: .45rem; font-size: .875rem; font-weight: 720; }
+.form input, .form textarea { width: 100%; min-width: 0; min-height: 2.85rem; border: 1px solid #80979f; border-radius: 0; padding: .55rem .7rem; color: var(--navy); background: var(--white); font: inherit; }
+.form textarea { resize: vertical; display: block; }
+.form [aria-invalid="true"] { border-color: #a32626; }
+.form button { justify-self: start; min-height: 2.75rem; padding: .6rem .85rem; border: 1px solid var(--navy); background: var(--navy); color: var(--white); font-weight: 720; cursor: pointer; }
+.form button:hover:enabled { background: var(--deep-teal); }
+.form button:disabled { opacity: .65; cursor: default; }
+.error, .result { margin: .35rem 0 0; font-size: .875rem; line-height: 1.5; }
+.error { color: #a32626; }
+.result { color: var(--deep-teal); font-weight: 650; }

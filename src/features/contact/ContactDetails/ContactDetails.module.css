@@ -1,0 +1,5 @@
+.details h2 { margin: 0 0 1.15rem; font-size: clamp(1.55rem, 3vw, 2.5rem); line-height: 1.1; letter-spacing: -.05em; }
+.details dl { margin: 0; border-top: 1px solid var(--line); }
+.details dl div { padding-block: .85rem; border-bottom: 1px solid var(--line); }
+.details dt { font-size: .875rem; font-weight: 720; }
+.details dd { margin: .3rem 0 0; color: var(--muted); line-height: 1.5; }

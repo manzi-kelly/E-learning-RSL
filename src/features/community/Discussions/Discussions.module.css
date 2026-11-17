@@ -1,0 +1,2 @@
+.section { composes: row from "../CommunityPage/CommunityPage.module.css"; }
+.section .status { margin-top: .65rem; font-size: .875rem; font-weight: 680; color: var(--deep-teal); }

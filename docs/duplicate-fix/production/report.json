@@ -1,0 +1,5981 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 6024,
+        "h": 668,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2725,
+    "skipCount": 1,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 101,
+        "h": 303,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 3089,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 403,
+        "h": 346,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1683,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1221,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 201,
+        "h": 275,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1238,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 837,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 69,
+        "h": 305,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1108,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 703,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 113,
+        "h": 424,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 3184,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1644,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 101,
+        "h": 189,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 406,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 405,
+    "skipCount": 3,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 69,
+        "h": 523,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2963,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 1945,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 69,
+        "h": 389,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1736,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1281,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 69,
+        "h": 310,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1083,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 857,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 69,
+        "h": 266,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 799,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 631,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 69,
+        "h": 306,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1450,
+        "h": 686,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 768,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 116,
+        "h": 162,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 729,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 116,
+        "h": 273,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1060,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 116,
+        "h": 240,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1470,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 5832,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2725,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 101,
+        "h": 277,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 3058,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 441,
+        "h": 280,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1577,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1221,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 201,
+        "h": 209,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1065,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 837,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 69,
+        "h": 279,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1040,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 703,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 113,
+        "h": 357,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2918,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1644,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 101,
+        "h": 116,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 333,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 405,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": [
+      "HTTP 404 http://127.0.0.1:3217/dictionary/alphabet",
+      "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 69,
+        "h": 497,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2755,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 1945,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 69,
+        "h": 362,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1559,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1281,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 69,
+        "h": 283,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 980,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 857,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 69,
+        "h": 239,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 726,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 631,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 69,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 69,
+        "h": 237,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1381,
+        "h": 662,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 768,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 116,
+        "h": 162,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 729,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 116,
+        "h": 213,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1060,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 84,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 116,
+        "h": 240,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1470,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 4174,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2725,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 109,
+        "h": 218,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1740,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 651,
+        "h": 309,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1677,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1221,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 191,
+        "h": 224,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 824,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 837,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 127,
+        "h": 270,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 816,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 703,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 119,
+        "h": 284,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1948,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1644,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 111,
+        "h": 110,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 338,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 405,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": [
+      "HTTP 404 http://127.0.0.1:3217/dictionary/alphabet",
+      "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 73,
+        "h": 395,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2095,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 1945,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 73,
+        "h": 324,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1285,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1281,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 73,
+        "h": 234,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 869,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 857,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 73,
+        "h": 241,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 679,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 631,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nMenu\n☰\nGet Started"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 73,
+        "h": 237,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1008,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": false
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu\n☰",
+        "visible": true
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 768,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 104,
+        "h": 137,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 729,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 104,
+        "h": 138,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1019,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview\nOpen menu"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 104,
+        "h": 155,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": false
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1470,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 3702,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2795,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 121,
+        "h": 216,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1339,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1361,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 216,
+        "h": 431,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1484,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 216,
+        "h": 258,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 850,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 907,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 145,
+        "h": 278,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 840,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 773,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 134,
+        "h": 328,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2012,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1714,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 124,
+        "h": 133,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 389,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 475,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": [
+      "HTTP 404 http://127.0.0.1:3217/dictionary/alphabet",
+      "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1024,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 73,
+        "h": 464,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2152,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 2015,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 73,
+        "h": 381,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1241,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1351,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 73,
+        "h": 291,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 979,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 927,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 73,
+        "h": 302,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 765,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 701,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 73,
+        "h": 297,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1076,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 838,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 113,
+        "h": 147,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 886,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 113,
+        "h": 139,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1176,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 113,
+        "h": 156,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1627,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 4260,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2795,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 133,
+        "h": 247,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1485,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1361,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 241,
+        "h": 409,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1379,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 241,
+        "h": 296,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 955,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 907,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 163,
+        "h": 301,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 884,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 773,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 150,
+        "h": 379,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2116,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1714,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 137,
+        "h": 152,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 439,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 475,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": [
+      "HTTP 404 http://127.0.0.1:3217/dictionary/alphabet",
+      "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1280,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 73,
+        "h": 547,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2247,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 2015,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 73,
+        "h": 444,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1361,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1351,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 73,
+        "h": 352,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1121,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 927,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 73,
+        "h": 364,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 882,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 701,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 73,
+        "h": 358,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1174,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 838,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 123,
+        "h": 163,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 886,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 123,
+        "h": 148,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1176,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 123,
+        "h": 165,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1627,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 4540,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Every sign is\na connection."
+    ],
+    "bodyTextLen": 2795,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/courses",
+    "title": "Courses | RSL-ELP",
+    "url": "/courses",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_catalogueIntro",
+        "top": 141,
+        "h": 258,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE\n\nCourses\n\nFind a learning pathway for your experience or th"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1545,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Courses"
+    ],
+    "bodyTextLen": 1361,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/courses/beginner",
+    "title": "Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_detailsIntro",
+        "top": 257,
+        "h": 432,
+        "visible": true,
+        "text": "BEGINNER · COURSE PREVIEW\n\nBeginner Rwanda Sign Language\n\nBuild a foundation in "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1379,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1291,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/courses/beginner/learn",
+    "title": "Classroom preview · Beginner Rwanda Sign Language | RSL-ELP",
+    "url": "/courses/beginner/learn",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "JejRRa_classroomIntro",
+        "top": 257,
+        "h": 312,
+        "visible": true,
+        "text": "RSL-ELP CLASSROOM\n\nClassroom preview\n\nBeginner Rwanda Sign Language\n\nExplore a s"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1003,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Breadcrumb",
+        "cls": "JejRRa_breadcrumbs",
+        "visible": true
+      },
+      {
+        "label": "Preview lessons",
+        "cls": "",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Classroom preview"
+    ],
+    "bodyTextLen": 907,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/auth",
+    "title": "Account access | RSL-ELP",
+    "url": "/auth",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "h6XEZW_intro",
+        "top": 174,
+        "h": 322,
+        "visible": true,
+        "text": "RWANDA SIGN LANGUAGE E-LEARNING PLATFORM\n\nYour learning\nstarts here.\n\nPreview ho"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 906,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Your learning\nstarts here."
+    ],
+    "bodyTextLen": 773,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/dictionary",
+    "title": "Rwanda Sign Language Digital Dictionary | RSL-ELP",
+    "url": "/dictionary",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "C4rR4q_intro",
+        "top": 159,
+        "h": 405,
+        "visible": true,
+        "text": "RSL-ELP · VOCABULARY\n\nRwanda Sign Language Digital Dictionary\n\nSearch vocabulary"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2134,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Rwanda Sign Language Digital Dictionary"
+    ],
+    "bodyTextLen": 1714,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/dictionary/alphabet",
+    "title": "Rwanda Sign Language E-Learning Platform",
+    "url": "/dictionary/alphabet",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "ZIDnma_intro",
+        "top": 145,
+        "h": 152,
+        "visible": true,
+        "text": "Entry not found\n\nThis vocabulary entry is unavailable. Return to the dictionary "
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 458,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Entry not found"
+    ],
+    "bodyTextLen": 475,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": [
+      "HTTP 404 http://127.0.0.1:3217/dictionary/alphabet",
+      "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/interpreting",
+    "title": "Rwanda Sign Language Interpreting Services | RSL-ELP",
+    "url": "/interpreting",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "K0quZG_intro",
+        "top": 73,
+        "h": 590,
+        "visible": true,
+        "text": "RSL-ELP · COMMUNICATION SUPPORT\n\nRwanda Sign Language Interpreting Services\n\nExp"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 2322,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Rwanda Sign Language Interpreting Services"
+    ],
+    "bodyTextLen": 2015,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/resources",
+    "title": "Learning Resources | RSL-ELP",
+    "url": "/resources",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "-JOr1a_intro",
+        "top": 73,
+        "h": 475,
+        "visible": true,
+        "text": "RSL-ELP · STUDY MATERIALS\n\nLearning Resources\n\nExplore educational materials des"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1410,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Learning Resources"
+    ],
+    "bodyTextLen": 1351,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/community",
+    "title": "RSL-ELP Community",
+    "url": "/community",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_6zj6QW_intro",
+        "top": 73,
+        "h": 386,
+        "visible": true,
+        "text": "RSL-ELP Community\n\nA space intended to support shared learning and accessible co"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1181,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "RSL-ELP Community"
+    ],
+    "bodyTextLen": 927,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/blog",
+    "title": "Blog & News | RSL-ELP",
+    "url": "/blog",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "bIiCdW_intro",
+        "top": 73,
+        "h": 396,
+        "visible": true,
+        "text": "Blog & News\n\nEducational articles, platform news, and community updates will app"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 934,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Blog & News"
+    ],
+    "bodyTextLen": 701,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "title": "Contact RSL-ELP",
+    "url": "/contact",
+    "headers": [
+      {
+        "cls": "DM7Ugq_header",
+        "top": 0,
+        "h": 73,
+        "visible": true,
+        "text": "Skip to content\nRSL-ELP\nHome\nPlatform\nCourses\nDictionary\nInterpreting\nLearning J"
+      },
+      {
+        "cls": "_3Zvj0W_intro",
+        "top": 73,
+        "h": 383,
+        "visible": true,
+        "text": "Contact RSL-ELP\n\nGet in touch with RSL-ELP Management for information about Rwan"
+      }
+    ],
+    "footers": [
+      {
+        "cls": "WnjEcW_footer",
+        "top": 1218,
+        "h": 404,
+        "visible": true,
+        "text": "RSL-ELP\n\nVisual Rwanda Sign Language learning for more inclusive communication.\n"
+      }
+    ],
+    "navs": [
+      {
+        "label": "Primary",
+        "cls": "DM7Ugq_nav",
+        "visible": true
+      },
+      {
+        "label": "Footer",
+        "cls": "WnjEcW_nav",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "main-content",
+        "cls": "",
+        "visible": true
+      }
+    ],
+    "toggles": [
+      {
+        "text": "Menu ☰",
+        "visible": false
+      }
+    ],
+    "adminToggles": 0,
+    "sidebars": 0,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Contact RSL-ELP"
+    ],
+    "bodyTextLen": 838,
+    "skipCount": 2,
+    "getStartedCount": 1,
+    "plannedCount": 1,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/admin",
+    "title": "Administrator Dashboard Preview | RSL-ELP",
+    "url": "/admin",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "IsAHsa_intro",
+        "top": 128,
+        "h": 166,
+        "visible": true,
+        "text": "Overview\n\nAdministrator interface preview — authentication and authorization are"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Overview"
+    ],
+    "bodyTextLen": 886,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/admin/courses",
+    "title": "Course Management Preview | RSL-ELP",
+    "url": "/admin/courses",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 128,
+        "h": 152,
+        "visible": true,
+        "text": "Course Management\n\nManage course information, lessons, educational materials and"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Course Management"
+    ],
+    "bodyTextLen": 1176,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/admin/courses/beginner",
+    "title": "Beginner Rwanda Sign Language · Admin preview | RSL-ELP",
+    "url": "/admin/courses/beginner",
+    "headers": [
+      {
+        "cls": "zTTERa_topbar",
+        "top": 0,
+        "h": 72,
+        "visible": true,
+        "text": "RSL-ELP\n\nAdministrator Dashboard\n\nPreview"
+      },
+      {
+        "cls": "ASS6Bq_heading",
+        "top": 128,
+        "h": 168,
+        "visible": true,
+        "text": "← Course Management\nBeginner Rwanda Sign Language\n\nAdministrator preview — chang"
+      }
+    ],
+    "footers": [],
+    "navs": [
+      {
+        "label": "Administrator workspace",
+        "cls": "HD6_sG_sidebar",
+        "visible": true
+      },
+      {
+        "label": "Course editor sections",
+        "cls": "ASS6Bq_sections",
+        "visible": true
+      }
+    ],
+    "mains": [
+      {
+        "id": "admin-overview",
+        "cls": "UQ3mPW_main",
+        "visible": true
+      }
+    ],
+    "toggles": [],
+    "adminToggles": 1,
+    "sidebars": 1,
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": [
+      "Beginner Rwanda Sign Language"
+    ],
+    "bodyTextLen": 1627,
+    "skipCount": 0,
+    "getStartedCount": 0,
+    "plannedCount": 0,
+    "errors": []
+  }
+]

@@ -1,0 +1,9 @@
+.page { background: var(--white); }
+.inner { max-width: var(--content-width); margin-inline: auto; padding-inline: var(--gutter); }
+.intro { background: var(--paper); padding-block: clamp(3rem, 7vw, 6.5rem); }
+.eyebrow { margin: 0 0 .95rem; color: var(--deep-teal); font-size: .75rem; font-weight: 760; letter-spacing: .1em; text-transform: uppercase; }
+.intro h1 { margin: 0; font-size: clamp(2.6rem, 7.4vw, 6.5rem); line-height: 1; letter-spacing: -.07em; text-wrap: balance; }
+.intro em { color: var(--deep-teal); font-style: normal; }
+.lead, .notice { max-width: 58ch; color: var(--muted); line-height: 1.65; }
+.lead { margin: 1.25rem 0 .55rem; font-size: clamp(1rem, 1.65vw, 1.2rem); }
+.notice { margin: 0; font-size: .9rem; }

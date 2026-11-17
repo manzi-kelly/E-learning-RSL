@@ -1,0 +1,15 @@
+.results { margin-block: clamp(2.75rem, 6vw, 5.25rem); }
+.heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .35rem 1rem; margin-bottom: 1rem; }
+.heading h2 { margin: 0; font-size: clamp(1.55rem, 3.5vw, 2.55rem); letter-spacing: -.05em; }
+.heading p { margin: 0; color: var(--muted); font-size: .9rem; }
+.rows { margin: 0; padding: 0; border-top: 1px solid var(--line); list-style: none; }
+.row { display: grid; grid-template-columns: minmax(0, .55fr) minmax(0, 1fr) auto; align-items: center; gap: .6rem clamp(1.25rem, 4vw, 4rem); border-bottom: 1px solid var(--line); padding-block: 1.15rem; }
+.row h3 { font-size: clamp(1.25rem, 2.4vw, 1.85rem); letter-spacing: -.04em; margin: .2rem 0 0; }
+.row p { margin: 0; color: var(--muted); line-height: 1.55; }
+.row .category { font-size: .75rem; font-weight: 720; color: var(--deep-teal); }
+.row .availability { margin-top: .25rem; font-size: .78rem; }
+.row a { display: inline-flex; align-items: center; gap: .55rem; justify-self: start; min-height: 2.75rem; color: var(--deep-teal); font-size: .875rem; font-weight: 700; text-underline-offset: .22em; }
+
+@media (width < 48rem) {
+  .row { grid-template-columns: minmax(0, 1fr); }
+}

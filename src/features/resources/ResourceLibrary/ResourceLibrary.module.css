@@ -1,0 +1,11 @@
+.library { padding-block: clamp(2.75rem, 6vw, 5.5rem); }
+.library h2 { margin: 0 0 1.25rem; font-size: clamp(1.75rem, 3.8vw, 3.25rem); letter-spacing: -.055em; }
+.count { margin: 1.3rem 0 .75rem; color: var(--muted); font-size: .9rem; line-height: 1.5; }
+.rows { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.row { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1fr); gap: .7rem clamp(1.75rem, 6vw, 6rem); padding-block: clamp(1.1rem, 3vw, 1.85rem); border-bottom: 1px solid var(--line); }
+.row h3 { margin: .35rem 0 0; font-size: clamp(1.12rem, 2.3vw, 1.6rem); letter-spacing: -.035em; line-height: 1.2; }
+.row p { margin: 0; color: var(--muted); line-height: 1.55; }
+.row .format { color: var(--deep-teal); font-size: .75rem; font-weight: 760; }
+.row .availability { margin-top: .5rem; color: var(--deep-teal); font-size: .875rem; font-weight: 650; }
+
+@media (width < 48rem) { .row { grid-template-columns: minmax(0, 1fr); } }

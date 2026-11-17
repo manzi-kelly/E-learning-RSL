@@ -1,0 +1,114 @@
+.intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, .8fr);
+  gap: clamp(1.5rem, 4vw, 4rem);
+  align-items: end;
+  margin-block-end: clamp(2.2rem, 5vw, 4rem);
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(1rem, 2vw, 1.75rem);
+}
+
+.feature {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 0;
+  background: none;
+  border: 0;
+}
+.feature:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
+
+.introSide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 1rem;
+  text-align: right;
+}
+.introSide p { margin: 0; }
+
+.feature h3 {
+  margin: 1.4rem 0 0;
+  color: var(--navy);
+  font-size: clamp(1.25rem, 1.8vw, 1.5rem);
+  font-weight: 760;
+  letter-spacing: -.03em;
+  line-height: 1.2;
+}
+.feature p {
+  margin: .6rem 0 0;
+  max-width: 42ch;
+  color: #40596a;
+  font-size: .95rem;
+  line-height: 1.6;
+}
+
+/* Illustrated tiles (Dictionary / Interpreting) */
+.art {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1.3;
+  overflow: hidden;
+  isolation: isolate;
+  background: linear-gradient(145deg, #0b6669, #12304a 74%);
+}
+.dictionaryArt {
+  color: #a5ded6;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 720;
+  line-height: 1;
+  letter-spacing: -.08em;
+}
+.interpretingArt {
+  display: flex;
+  align-items: center;
+  color: #a5ded6;
+}
+.interpretingArt::before, .interpretingArt::after {
+  content: "";
+  display: block;
+  width: clamp(2.5rem, 5vw, 4.75rem);
+  aspect-ratio: 1;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+.interpretingArt::after { margin-inline-start: -.85rem; }
+.art::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(180deg, transparent 60%, #12304a44 100%);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  color: var(--navy);
+  font-size: .875rem;
+  font-weight: 720;
+  text-decoration: none;
+}
+.link span { display: inline-block; transition: transform .25s ease; }
+.link:hover { color: var(--deep-teal); }
+.link:hover span { transform: translate(2px, 2px); }
+.link:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
+
+@media (max-width: 63.999rem) {
+  .features { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 47.999rem) {
+  .intro { grid-template-columns: minmax(0, 1fr); align-items: start; }
+  .introSide { align-items: flex-start; text-align: left; }
+  .features { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .link span { transition: none; }
+}

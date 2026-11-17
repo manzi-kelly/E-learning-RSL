@@ -1,0 +1,9 @@
+.page { background: var(--white); }
+.inner { max-width: var(--content-width); margin-inline: auto; padding: clamp(2.75rem, 6vw, 6rem) var(--gutter) clamp(3.5rem, 7vw, 7rem); }
+.intro { padding-bottom: clamp(1.75rem, 4vw, 3.5rem); }
+.intro .eyebrow { margin: 0 0 .85rem; color: var(--deep-teal); font-size: .74rem; font-weight: 760; letter-spacing: .11em; text-transform: uppercase; }
+.intro h1 { margin: 0; font-size: clamp(2.55rem, 6.5vw, 6rem); line-height: 1; letter-spacing: -.07em; text-wrap: balance; max-width: 19ch; }
+.intro em { color: var(--deep-teal); font-style: normal; }
+.intro p { margin: 1.15rem 0 .35rem; max-width: 58ch; color: var(--muted); line-height: 1.65; font-size: clamp(1rem, 1.5vw, 1.15rem); }
+.intro a { display: inline-flex; align-items: center; gap: .55rem; min-height: 2.75rem; color: var(--deep-teal); font-weight: 700; font-size: .9rem; text-underline-offset: .23em; }
+.filters { display: grid; gap: 1.3rem; padding-block: 1.5rem; border-block: 1px solid var(--line); }

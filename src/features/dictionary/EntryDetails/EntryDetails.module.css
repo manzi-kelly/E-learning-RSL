@@ -1,0 +1,16 @@
+.page { background: var(--white); }
+.inner { max-width: var(--content-width); margin-inline: auto; padding: clamp(2rem, 5vw, 5rem) var(--gutter) clamp(3.5rem, 7vw, 7rem); }
+.back { margin-bottom: clamp(1.75rem, 4vw, 3rem); }
+.back a, .related a, .return { display: inline-flex; align-items: center; gap: .55rem; min-height: 2.75rem; color: var(--deep-teal); font-weight: 700; font-size: .9rem; text-underline-offset: .23em; }
+.eyebrow { margin: 0 0 .8rem; color: var(--deep-teal); font-size: .75rem; font-weight: 760; letter-spacing: .1em; text-transform: uppercase; }
+.intro h1 { margin: 0; font-size: clamp(3rem, 9vw, 7rem); line-height: .98; letter-spacing: -.07em; }
+.intro > p:last-child, .body p, .related p { color: var(--muted); line-height: 1.65; }
+.body { display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 1fr); gap: clamp(1.75rem, 6vw, 6rem); padding-block: clamp(1.5rem, 4vw, 3.5rem); margin-top: 2rem; border-top: 1px solid var(--line); }
+.body h2, .related h2 { margin: 0; font-size: clamp(1.45rem, 3vw, 2.35rem); letter-spacing: -.045em; }
+.media { margin: 0; }
+.frame { display: grid; place-items: center; text-align: center; padding: 1rem; aspect-ratio: 16 / 9; color: var(--white); background: linear-gradient(135deg, #0d5c61, var(--navy) 80%); font-weight: 700; }
+.media figcaption { margin-top: .7rem; color: var(--muted); line-height: 1.5; font-size: .9rem; }
+.related { border-top: 1px solid var(--line); padding-top: 1.5rem; }
+.related ul { display: flex; flex-wrap: wrap; gap: .2rem 1.75rem; margin: 0; padding: 0; list-style: none; }
+
+@media (width < 48rem) { .body { grid-template-columns: minmax(0, 1fr); } }

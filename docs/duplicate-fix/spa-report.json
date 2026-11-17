@@ -1,0 +1,182 @@
+[
+  {
+    "label": "initial-home",
+    "url": "/",
+    "headerClasses": [
+      "DM7Ugq_header"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "click-courses",
+    "url": "/courses",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "JejRRa_catalogueIntro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "click-footer-courses",
+    "url": "/courses",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "JejRRa_catalogueIntro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "click-auth",
+    "url": "/auth",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "h6XEZW_intro",
+      "JejRRa_catalogueIntro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "back",
+    "url": "/courses",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "JejRRa_catalogueIntro",
+      "h6XEZW_intro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "back2",
+    "url": "/",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "JejRRa_catalogueIntro",
+      "h6XEZW_intro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "forward",
+    "url": "/courses",
+    "headerClasses": [
+      "DM7Ugq_header",
+      "JejRRa_catalogueIntro",
+      "h6XEZW_intro"
+    ],
+    "footerClasses": [
+      "WnjEcW_footer"
+    ],
+    "mains": 1,
+    "primaryNavs": 1,
+    "footerNavs": 1,
+    "skipLinks": 1,
+    "cta": 1,
+    "brandLinks": 2,
+    "adminSidebar": 0,
+    "adminToggle": 0,
+    "errors": []
+  },
+  {
+    "label": "admin-direct",
+    "url": "/admin",
+    "headerClasses": [
+      "zTTERa_topbar",
+      "IsAHsa_intro"
+    ],
+    "footerClasses": [],
+    "mains": 1,
+    "primaryNavs": 0,
+    "footerNavs": 0,
+    "skipLinks": 0,
+    "cta": 0,
+    "brandLinks": 1,
+    "adminSidebar": 1,
+    "adminToggle": 1,
+    "errors": []
+  },
+  {
+    "label": "admin-spa-courses",
+    "url": "/admin/courses",
+    "headerClasses": [
+      "zTTERa_topbar",
+      "ASS6Bq_heading",
+      "IsAHsa_intro"
+    ],
+    "footerClasses": [],
+    "mains": 1,
+    "primaryNavs": 0,
+    "footerNavs": 0,
+    "skipLinks": 0,
+    "cta": 0,
+    "brandLinks": 1,
+    "adminSidebar": 1,
+    "adminToggle": 1,
+    "errors": []
+  }
+]

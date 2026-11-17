@@ -1,0 +1,6 @@
+.intro { max-width: 34ch; margin: 1.15rem 0 0; color: var(--muted); line-height: 1.6; }
+.steps { list-style: none; border-top: 1px solid var(--line); padding: 0; margin: 0; }
+.steps li { display: grid; grid-template-columns: 2.25rem minmax(0, 1fr); gap: clamp(.65rem, 2vw, 1.25rem); padding-block: 1.15rem; border-bottom: 1px solid var(--line); }
+.number { color: var(--deep-teal); font-size: .85rem; font-weight: 750; font-variant-numeric: tabular-nums; padding-top: .2rem; }
+.steps h3 { font-size: clamp(1.12rem, 2vw, 1.45rem); letter-spacing: -.035em; margin: 0 0 .35rem; }
+.steps p { color: var(--muted); line-height: 1.55; margin: 0; }

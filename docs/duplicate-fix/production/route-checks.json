@@ -1,0 +1,164 @@
+﻿[
+    {
+        "Route":  "/",
+        "Status":  200,
+        "Header":  1,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/courses",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/courses/beginner",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/courses/beginner/learn",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/courses/intermediate",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/courses/advanced",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/auth",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/dictionary",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/dictionary/family",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/interpreting",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/resources",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/community",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/blog",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/contact",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  1,
+        "Main":  1,
+        "PublicNav":  1,
+        "AdminToggle":  0
+    },
+    {
+        "Route":  "/admin",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  0,
+        "Main":  1,
+        "PublicNav":  0,
+        "AdminToggle":  1
+    },
+    {
+        "Route":  "/admin/courses",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  0,
+        "Main":  1,
+        "PublicNav":  0,
+        "AdminToggle":  1
+    },
+    {
+        "Route":  "/admin/courses/beginner",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  0,
+        "Main":  1,
+        "PublicNav":  0,
+        "AdminToggle":  1
+    },
+    {
+        "Route":  "/admin/courses/advanced",
+        "Status":  200,
+        "Header":  2,
+        "Footer":  0,
+        "Main":  1,
+        "PublicNav":  0,
+        "AdminToggle":  1
+    }
+]

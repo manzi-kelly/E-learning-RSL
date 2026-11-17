@@ -1,0 +1,5 @@
+.search label { display: block; margin-bottom: .65rem; font-weight: 700; }
+.controls { display: flex; flex-wrap: wrap; align-items: stretch; gap: .55rem; }
+.controls input { flex: 1 1 13rem; min-width: 0; min-height: 3.25rem; border: 1px solid #80979f; border-radius: 0; padding: .7rem .85rem; font: inherit; color: var(--navy); background: var(--white); }
+.controls button { min-height: 2.75rem; padding-inline: .85rem; border: 1px solid var(--deep-teal); background: var(--white); color: var(--deep-teal); font-size: .875rem; font-weight: 690; cursor: pointer; }
+.controls button[aria-disabled="true"] { color: var(--muted); border-color: #80979f; cursor: default; }

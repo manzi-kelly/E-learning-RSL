@@ -1,0 +1,43 @@
+.form { display: grid; gap: 1.05rem; }
+.field { display: grid; gap: .4rem; }
+.field label { color: var(--navy); font-size: .875rem; font-weight: 680; }
+.field input {
+  width: 100%;
+  min-width: 0;
+  height: 2.9rem;
+  padding: .6rem .75rem;
+  border: 1px solid #81979e;
+  border-radius: 0;
+  background: var(--white);
+  color: var(--navy);
+  font: inherit;
+}
+.field input[aria-invalid] { border-color: #a32626; }
+.passwordRow { display: grid; grid-template-columns: minmax(0, 1fr) auto; }
+.passwordRow button {
+  min-width: 3.65rem;
+  min-height: 2.9rem;
+  border: 1px solid #81979e;
+  border-left: 0;
+  background: var(--paper);
+  color: var(--deep-teal);
+  font-size: .83rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.passwordRow button:focus-visible, .field input:focus-visible { position: relative; z-index: 1; }
+.submit {
+  min-height: 3rem;
+  padding: .65rem 1rem;
+  border: 1px solid var(--navy);
+  background: var(--navy);
+  color: var(--white);
+  font-weight: 720;
+  cursor: pointer;
+}
+.submit:hover:enabled { background: var(--deep-teal); border-color: var(--deep-teal); }
+.submit:disabled { opacity: .65; cursor: default; }
+.error, .feedback { margin: 0; font-size: .875rem; line-height: 1.5; }
+.error { color: #a32626; font-weight: 650; }
+.feedback { color: var(--deep-teal); }
+.feedback:empty { display: none; }

@@ -1,0 +1,3 @@
+.answers { min-inline-size: 0; margin: 1rem 0; padding: 0; border: 0; display: grid; gap: .65rem 1.25rem; grid-template-columns: repeat(2,minmax(0,1fr)); }
+.answers legend { padding: 0; }
+@media (width < 44rem) { .answers { grid-template-columns: minmax(0,1fr); } }

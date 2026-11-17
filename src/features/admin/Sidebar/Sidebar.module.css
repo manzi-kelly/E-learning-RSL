@@ -1,0 +1,15 @@
+.sidebar { padding: clamp(.9rem, 2vw, 1.6rem); }
+.sidebar p { margin: 1.3rem 0 .55rem; color: #a5ded6; font-size: .75rem; font-weight: 720; }
+.sidebar ul { margin: 0; padding: 0; list-style: none; }
+.item { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: .65rem; border-bottom: 1px solid #315669; color: #dbe8ee; font-size: .9rem; }
+.tag { flex: none; color: #a5ded6; font-size: .68rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.active { display: flex; align-items: center; min-height: 2.75rem; border-inline-start: 3px solid #a5ded6; padding-inline: .7rem; background: #23475e; font-weight: 740; text-decoration: none; }
+.active:hover { text-decoration: underline; text-underline-offset: .22em; }
+.active:focus-visible { outline-color: #a5ded6; }
+@media (width >= 64rem) {
+  .sidebar { position: sticky; top: 0; max-height: 100dvh; overflow-y: auto; }
+}
+
+.destination { display: flex; align-items: center; min-height: 2.75rem; padding-inline: .7rem; color: var(--white); font-weight: 650; text-decoration: none; }
+.destination:hover { text-decoration: underline; text-underline-offset: .22em; }
+.destination:focus-visible { outline-color: #a5ded6; }

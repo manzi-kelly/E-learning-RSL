@@ -1,0 +1,9 @@
+.page { background: var(--white); }
+.inner { max-width: var(--content-width); margin-inline: auto; padding-inline: var(--gutter); }
+.intro { background: var(--paper); padding-block: clamp(3rem, 7vw, 7rem); }
+.eyebrow { margin: 0 0 .9rem; color: var(--deep-teal); font-size: .75rem; font-weight: 760; letter-spacing: .1em; text-transform: uppercase; }
+.intro h1 { max-width: 19ch; margin: 0; font-size: clamp(2.5rem, 6.5vw, 6rem); line-height: 1; letter-spacing: -.07em; text-wrap: balance; }
+.intro em { color: var(--deep-teal); font-style: normal; }
+.lead { max-width: 57ch; margin: 1.2rem 0 1rem; color: var(--muted); font-size: clamp(1rem, 1.5vw, 1.17rem); line-height: 1.65; }
+.action { display: inline-flex; align-items: center; gap: .6rem; min-height: 2.75rem; padding: .6rem .85rem; background: var(--navy); color: var(--white); text-decoration: none; font-size: .875rem; font-weight: 700; }
+.action:hover { background: var(--deep-teal); }

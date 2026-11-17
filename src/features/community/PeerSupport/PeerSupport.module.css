@@ -1,0 +1,1 @@
+.section { composes: row from "../CommunityPage/CommunityPage.module.css"; }

@@ -1,0 +1,15 @@
+.footer { background: var(--navy); color: var(--white); }
+.inner { max-width: var(--content-width); margin-inline: auto; padding: 3rem var(--gutter); display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, .65fr) minmax(0, 1.1fr); gap: 1.75rem clamp(1rem, 4vw, 4rem); }
+.overview p { margin: .85rem 0 0; max-width: 32ch; color: #d3e1e8; line-height: 1.55; }
+.nav ul, .planned ul { list-style: none; margin: 0; padding: 0; }
+.nav a { display: inline-flex; align-items: center; min-height: 2.75rem; text-decoration: none; font-size: .875rem; }
+.nav a:hover { text-decoration: underline; text-underline-offset: .3em; }
+.planned { color: #d3e1e8; font-size: .875rem; }
+.planned p { margin: 0 0 .75rem; color: var(--white); font-weight: 700; }
+.planned ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem 1rem; }
+.footer :focus-visible { outline-color: #93e2d9; }
+
+@media (width < 48rem) {
+  .inner { grid-template-columns: minmax(0, 1fr); }
+  .planned { padding-top: 1rem; border-top: 1px solid #527182; }
+}

@@ -1,0 +1,40 @@
+.header { background: var(--white); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 2; }
+.inner {
+  max-width: var(--content-width);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+  min-height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.nav { display: flex; align-items: center; gap: clamp(.75rem, 1.6vw, 1.65rem); font-size: .85rem; font-weight: 620; }
+.nav a { display: flex; align-items: center; min-height: 2.75rem; text-decoration: none; }
+.nav a:hover, .nav [aria-current] { color: var(--deep-teal); text-decoration: underline; text-underline-offset: .45em; text-decoration-thickness: 2px; }
+.toggle { display: none; }
+.skip { position: absolute; inset-inline-start: var(--gutter); top: .65rem; padding: .75rem; background: var(--white); transform: translateY(-200%); z-index: 2; }
+.skip:focus { transform: translateY(0); }
+
+@media (width < 64rem) {
+  .toggle { display: flex; align-items: center; gap: .65rem; min-height: 2.75rem; padding: .3rem .75rem; color: var(--navy); background: transparent; border: 1px solid #a4b7bc; cursor: pointer; }
+  .nav { display: none; position: absolute; inset: 100% 0 auto; padding: .5rem var(--gutter); background: var(--white); border-bottom: 1px solid var(--line); max-height: calc(100dvh - var(--header-height) - 1px); overflow-y: auto; }
+  .nav[data-open="true"] { display: grid; gap: 0; }
+  .nav a + a { border-top: 1px solid var(--line); }
+}
+
+.navigation { display: flex; align-items: center; gap: clamp(.75rem, 2vw, 2rem); }
+.cta { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding-inline: 1rem; background: var(--navy); color: var(--white); font-size: .85rem; font-weight: 720; text-decoration: none; white-space: nowrap; }
+.cta:hover, .cta[aria-current] { background: var(--deep-teal); }
+
+@media (width < 64rem) {
+  .navigation { gap: .5rem; }
+  .cta { padding-inline: .7rem; }
+}
+
+@media (width < 25rem) {
+  .inner { gap: .4rem; }
+  .inner > a:not(.skip) { gap: .25rem; font-size: .825rem; }
+  .inner > a > span:has(img) { width: 2.125rem; height: 2.125rem; }
+  .toggle { gap: .3rem; padding-inline: .45rem; font-size: .85rem; }
+}

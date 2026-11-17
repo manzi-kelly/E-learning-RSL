@@ -1,0 +1,4 @@
+.section:focus-visible { outline: 3px solid #93e2d9; outline-offset: -5px; }
+.section em { color: #93e2d9; font-style: normal; }
+.intro { margin: 1.1rem 0 0; max-width: 38ch; color: #d3e1e8; line-height: 1.6; }
+.principles li { font-size: clamp(1rem, 1.8vw, 1.25rem); }

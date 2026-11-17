@@ -1,0 +1,7 @@
+.section { text-align: center; }
+.section h2 { max-width: 20ch; margin-inline: auto; }
+.section em { color: var(--deep-teal); font-style: normal; }
+.actions { display: flex; justify-content: center; flex-wrap: wrap; gap: .75rem; margin-top: 1.65rem; }
+.actions a { display: inline-flex; align-items: center; justify-content: center; gap: .65rem; min-height: 3rem; padding: .625rem 1rem; border: 1px solid var(--navy); font-size: .875rem; font-weight: 720; text-decoration: none; }
+.actions a:first-child { background: var(--navy); color: var(--white); }
+.actions a:hover { background: var(--deep-teal); border-color: var(--deep-teal); color: var(--white); }
