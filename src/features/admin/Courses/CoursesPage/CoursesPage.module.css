@@ -1,8 +1,15 @@
-.page { max-width: 76rem; padding: clamp(2rem, 4vw, 3.5rem) clamp(1rem, 5vw, 5rem) clamp(3rem, 6vw, 5rem); }
-.page h1 { margin: 0; font-size: clamp(2rem, 3.2vw, 2.75rem); line-height: 1.1; letter-spacing: -.035em; }
-.heading { padding-bottom: 1.75rem; }
-.heading p { margin: .8rem 0 0; color: var(--muted); line-height: 1.55; }
-.heading .notice { padding-inline-start: .8rem; border-inline-start: 3px solid var(--teal); color: var(--deep-teal); font-weight: 650; }
-.back, .sections a { display: inline-flex; align-items: center; min-height: 2.75rem; color: var(--deep-teal); text-underline-offset: .22em; font-weight: 700; font-size: .875rem; }
-.back { margin-bottom: .65rem; }
-.sections { display: flex; flex-wrap: wrap; gap: .15rem 1.35rem; border-block: 1px solid var(--line); padding-block: .25rem; }
+.back, .sections a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  color: var(--deep-teal);
+  text-underline-offset: .22em;
+  font-weight: 700;
+  font-size: .875rem;
+}
+
+.sections {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .15rem 1.35rem;
+}

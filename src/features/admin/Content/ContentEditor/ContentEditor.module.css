@@ -1,0 +1,6 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.form { composes: form from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.form [aria-invalid="true"] { border-color: #a32626; }
+.error { color: #a32626; }
+

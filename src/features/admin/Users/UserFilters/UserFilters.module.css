@@ -1,0 +1,3 @@
+.filters { composes: form from "../../ManagementPreview.module.css"; max-width: none; grid-template-columns: repeat(auto-fit,minmax(min(100%, 11rem),1fr)); align-items: end; margin-block: 1rem; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+

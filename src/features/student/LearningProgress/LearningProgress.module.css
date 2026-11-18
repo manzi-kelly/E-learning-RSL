@@ -1,0 +1,203 @@
+/* Tokens fall back to neutral values if your global theme doesn't define them */
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.intro {
+  margin: .5rem 0 0;
+  max-width: 62ch;
+  color: var(--muted, #5b6472);
+}
+
+/* ---------- Summary ---------- */
+.summary {
+  margin-bottom: 1.75rem;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  margin: 0;
+  border: 1px solid var(--border, #e2e6ec);
+  border-radius: .75rem;
+  background: var(--surface, #fff);
+  overflow: hidden;
+}
+
+.stat {
+  padding: 1rem 1.25rem;
+  border-inline-start: 1px solid var(--border, #e2e6ec);
+}
+
+.stat:first-child {
+  border-inline-start: 0;
+}
+
+.stat dt {
+  color: var(--muted, #5b6472);
+  font-size: .875rem;
+  font-weight: 650;
+}
+
+.statValue {
+  margin: .25rem 0 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums;
+}
+
+.statOf {
+  color: var(--muted, #5b6472);
+  font-size: .9rem;
+  font-weight: 500;
+}
+
+/* ---------- Course rows ---------- */
+.list {
+  display: grid;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.record {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 1rem 2rem;
+  align-items: start;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--border, #e2e6ec);
+  border-radius: .75rem;
+  background: var(--surface, #fff);
+}
+
+/* Your existing rules, kept as-is */
+.record label {
+  display: block;
+  color: var(--muted);
+  font-size: .875rem;
+  font-weight: 650;
+  margin-bottom: .35rem;
+}
+
+.record p {
+  margin: .65rem 0 0;
+}
+
+.recordHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem .75rem;
+  grid-column: 1 / -1;
+}
+
+.recordHead h2 {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.badge {
+  padding: .15rem .6rem;
+  border: 1px solid var(--border, #e2e6ec);
+  border-radius: 999px;
+  color: var(--muted, #5b6472);
+  font-size: .8125rem;
+  font-weight: 650;
+}
+
+.badgeDone {
+  border-color: #2f7d4f;
+  color: #1f6a3f;
+  background: #eaf6ee;
+}
+
+.progressBlock {
+  min-width: 0;
+}
+
+.progressRow {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+}
+
+.bar {
+  flex: 1;
+  min-width: 0;
+  height: .625rem;
+}
+
+.pct {
+  min-width: 3ch;
+  text-align: end;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .75rem 1.5rem;
+  margin: 0;
+}
+
+.meta dt {
+  color: var(--muted, #5b6472);
+  font-size: .875rem;
+  font-weight: 650;
+}
+
+.meta dd {
+  margin: .15rem 0 0;
+}
+
+.action {
+  grid-column: 1 / -1;
+  justify-self: start;
+  font-weight: 650;
+}
+
+.action:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+  border-radius: .25rem;
+}
+
+.hint {
+  margin-top: 1.5rem;
+  color: var(--muted, #5b6472);
+  max-width: 62ch;
+}
+
+.visuallyHidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 720px) {
+  .record {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+  .stat {
+    border-inline-start: 0;
+    border-top: 1px solid var(--border, #e2e6ec);
+  }
+
+  .stat:first-child {
+    border-top: 0;
+  }
+}

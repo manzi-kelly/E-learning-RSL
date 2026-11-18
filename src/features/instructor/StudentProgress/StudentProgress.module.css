@@ -1,0 +1,75 @@
+.header {
+  composes: header from "../Workspace.module.css";
+}
+
+.title {
+  margin: 0 0 0.25rem;
+}
+
+.subtitle {
+  composes: subtitle from "../Workspace.module.css";
+}
+
+.picker {
+  composes: picker from "../Workspace.module.css";
+}
+
+.stats {
+  composes: stats from "../Workspace.module.css";
+}
+
+.stat {
+  composes: stat from "../Workspace.module.css";
+}
+
+.statLabel {
+  composes: statLabel from "../Workspace.module.css";
+}
+
+.statValue {
+  composes: statValue from "../Workspace.module.css";
+}
+
+.panel {
+  min-width: 0;
+  padding: 1.25rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+}
+
+.panelHeader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.panelTitle {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.count {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.table {
+  margin-top: 0.25rem;
+  overflow-x: auto;
+}
+
+.completion {
+  display: grid;
+  gap: 0.35rem;
+  min-width: 8rem;
+}
+
+.completion progress {
+  width: 100%;
+  accent-color: var(--deep-teal);
+}

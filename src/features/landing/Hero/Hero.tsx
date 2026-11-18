@@ -73,10 +73,10 @@ export default function Hero() {
         </p>
 
         <div className={styles.actions}>
-          <Link href="/courses" data-action>
+          <Link href="/ways-to-learn" data-action>
             Explore Courses <span aria-hidden="true">↓</span>
           </Link>
-          <Link href="/dictionary" data-action>
+          <Link href="/ways-to-learn#dictionary" data-action>
             Explore Dictionary <span aria-hidden="true">↓</span>
           </Link>
         </div>

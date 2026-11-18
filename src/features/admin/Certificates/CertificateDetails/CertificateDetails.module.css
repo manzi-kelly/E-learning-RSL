@@ -1,0 +1,8 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.notice { composes: notice from "../../ManagementPreview.module.css"; }
+.brand { margin-block: .8rem; }
+.details { margin: .8rem 0 0; }
+.details div { padding-block: .6rem; border-bottom: 1px solid var(--line); }
+.details dt { font-weight: 700; }
+.details dd { margin: .25rem 0 0; color: var(--muted); }
+

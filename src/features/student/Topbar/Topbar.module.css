@@ -1,0 +1,4 @@
+.topbar { composes: topbar from "../../admin/Topbar/Topbar.module.css"; }
+.brandSlot { composes: brandSlot from "../../admin/Topbar/Topbar.module.css"; }
+.title { composes: title from "../../admin/Topbar/Topbar.module.css"; }
+.status { composes: status from "../../admin/Topbar/Topbar.module.css"; }

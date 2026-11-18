@@ -1,0 +1,7 @@
+.heading { display: flex; align-items: center; gap: .7rem; }
+.heading img { flex: none; object-fit: contain; }
+.heading h2 { margin: 0; }
+.details { margin: .8rem 0 0; }
+.details div { padding-block: .5rem; }
+.details dt { font-weight: 700; }
+.details dd { margin: .15rem 0 0; color: var(--muted); }

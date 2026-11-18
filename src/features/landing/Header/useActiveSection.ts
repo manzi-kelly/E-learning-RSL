@@ -12,13 +12,10 @@ export default function useActiveSection(isLanding: boolean) {
       return element ? [{ id, element }] : [];
     });
     let observer: IntersectionObserver | undefined;
-    let fragment: LandingSection | undefined;
 
     const update = () => {
       const readingLine = Math.round(window.innerHeight * 0.36);
-      const stacked = window.matchMedia("(width < 48rem)").matches;
-      const visible = targets.filter(({ id, element }) => {
-        if (!stacked && (id === "dictionary" || id === "interpreting") && id !== fragment) return false;
+      const visible = targets.filter(({ element }) => {
         const { top, bottom } = element.getBoundingClientRect();
         return top <= readingLine && bottom >= readingLine;
       });
@@ -27,7 +24,7 @@ export default function useActiveSection(isLanding: boolean) {
     };
 
     const syncHash = () => {
-      fragment = targets.find(({ id }) => window.location.hash === `#${id}`)?.id;
+      const fragment = targets.find(({ id }) => window.location.hash === `#${id}`)?.id;
       if (fragment) setActive(fragment);
       else update();
     };

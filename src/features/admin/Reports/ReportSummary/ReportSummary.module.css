@@ -1,0 +1,6 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.summary { display: grid; grid-template-columns: repeat(auto-fit,minmax(8.5rem,1fr)); margin: 0; }
+.summary div { border-bottom: 1px solid var(--line); padding: .7rem; }
+.summary dt { color: var(--muted); font-weight: 650; }
+.summary dd { margin: .3rem 0 0; font-size: 1.5rem; font-weight: 750; }
+

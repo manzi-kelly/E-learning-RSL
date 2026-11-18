@@ -1,0 +1,6 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.row { display: grid; grid-template-columns: minmax(0,.45fr) minmax(0,1fr); gap: .55rem; padding-block: 1rem; border-bottom: 1px solid var(--line); }
+.row h3 { margin: 0; }
+.row ul { margin: 0; padding-inline-start: 1.15rem; color: var(--muted); line-height: 1.65; }
+@media (width < 40rem) { .row { grid-template-columns: minmax(0,1fr); } }
+

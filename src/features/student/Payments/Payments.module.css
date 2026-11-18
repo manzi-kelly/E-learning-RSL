@@ -1,0 +1,152 @@
+/* Your existing rules, kept as-is */
+.details { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,10rem),1fr)); gap: .75rem 1rem; margin: .9rem 0 0; }
+.details dt { font-weight: 720; }
+.details dd { margin: .25rem 0 0; color: var(--muted); }
+
+/* Tokens fall back to neutral values if your global theme doesn't define them */
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.intro {
+  margin: .5rem 0 0;
+  max-width: 62ch;
+  color: var(--muted, #5b6472);
+}
+
+/* ---------- Summary ---------- */
+.summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0 0 1.5rem;
+  border-block: 1px solid var(--line, #e2e6ec);
+}
+
+.summary div {
+  padding: .85rem 1rem .85rem 0;
+}
+
+.summary div + div {
+  padding-inline-start: 1rem;
+  border-inline-start: 1px solid var(--line, #e2e6ec);
+}
+
+.summary dt {
+  color: var(--muted, #5b6472);
+  font-weight: 650;
+  font-size: .875rem;
+  line-height: 1.4;
+}
+
+.summary dd {
+  margin: .35rem 0 0;
+  font-size: clamp(1.45rem, 3vw, 2.25rem);
+  font-weight: 750;
+  letter-spacing: -.035em;
+  font-variant-numeric: tabular-nums;
+}
+
+.total {
+  display: block;
+}
+
+/* ---------- Transactions ---------- */
+.list {
+  display: grid;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.record {
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--line, #e2e6ec);
+  border-radius: .75rem;
+  background: var(--surface, #fff);
+}
+
+.record h2 {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.details .reference {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .875rem;
+  overflow-wrap: anywhere;
+}
+
+.details .amount {
+  color: inherit;
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+}
+
+.details .status {
+  display: inline-block;
+  padding: .15rem .6rem;
+  border: 1px solid var(--line, #e2e6ec);
+  border-radius: 999px;
+  color: var(--muted, #5b6472);
+  font-size: .8125rem;
+  font-weight: 650;
+}
+
+.details .statusSuccess {
+  border-color: #2f7d4f;
+  background: #eaf6ee;
+  color: #1f6a3f;
+}
+
+.details .statusPending {
+  border-color: #b7791f;
+  background: #fdf3e1;
+  color: #8a5a12;
+}
+
+.details .statusAlert {
+  border-color: #b4423a;
+  background: #fbeceb;
+  color: #8f2f28;
+}
+
+/* ---------- Empty state ---------- */
+.empty {
+  padding: 2rem 1.5rem;
+  border: 1px dashed var(--line, #e2e6ec);
+  border-radius: .75rem;
+  text-align: center;
+}
+
+.empty h2 {
+  margin: 0 0 .35rem;
+  font-size: 1.125rem;
+}
+
+.empty p {
+  margin: 0;
+  color: var(--muted, #5b6472);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 560px) {
+  .record {
+    padding: 1rem;
+  }
+
+  .summary {
+    grid-template-columns: 1fr;
+  }
+
+  .summary div + div {
+    padding-inline-start: 0;
+    border-inline-start: 0;
+    border-top: 1px solid var(--line, #e2e6ec);
+  }
+}

@@ -1,0 +1,6 @@
+.page { composes: page from "../../ManagementPreview.module.css"; }
+.notice { composes: notice from "../../ManagementPreview.module.css"; }
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.filters { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; margin: 0 0 1.25rem; }
+.filters label { display: grid; flex: 1 1 12rem; gap: .35rem; font-weight: 700; }
+.filters input, .filters select { min-width: 0; width: 100%; min-height: 2.75rem; border: 1px solid #80979f; border-radius: 0; padding: .55rem; color: var(--navy); background: white; font: inherit; }

@@ -1,0 +1,10 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.details { margin: 0; border-top: 1px solid var(--line); }
+.details div { display: grid; grid-template-columns: minmax(0,.55fr) minmax(0,1fr); gap: .4rem 1rem; padding-block: .6rem; border-bottom: 1px solid var(--line); }
+.details dt { font-weight: 700; }
+.details dd { margin: 0; color: var(--muted); overflow-wrap: anywhere; }
+.actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1rem; }
+.back { min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--navy); color: var(--navy); background: var(--white); cursor: pointer; }
+@media (width < 40rem) { .details div { grid-template-columns: minmax(0,1fr); } }
+

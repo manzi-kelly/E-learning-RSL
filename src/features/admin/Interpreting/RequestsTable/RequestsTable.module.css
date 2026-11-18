@@ -1,0 +1,5 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.scroll { composes: scroll from "../../ManagementPreview.module.css"; }
+.scroll table { min-width: 52rem; }
+.scroll time { white-space: nowrap; }
+.button { composes: button from "../../ManagementPreview.module.css"; white-space: nowrap; }

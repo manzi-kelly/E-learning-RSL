@@ -1,0 +1,8 @@
+.page { composes: page from "../../ManagementPreview.module.css"; }
+.notice { composes: notice from "../../ManagementPreview.module.css"; }
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.directoryHeading { display: flex; align-items: baseline; flex-wrap: wrap; justify-content: space-between; gap: .5rem 1rem; }
+.directoryHeading h2 { margin: 0; }
+.feedback { margin: .65rem 0 0; color: var(--deep-teal); font-weight: 650; line-height: 1.55; }
+

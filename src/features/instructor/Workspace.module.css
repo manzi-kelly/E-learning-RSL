@@ -1,0 +1,26 @@
+.page { width: 100%; min-width: 0; max-width: 72rem; overflow-wrap: anywhere; }
+.page h1 { margin: 0 0 1rem; font-size: clamp(2.1rem,5vw,4.6rem); letter-spacing: -.06em; line-height: 1.04; }
+.page h2 { margin: 0 0 .65rem; font-size: clamp(1.35rem,2.5vw,2rem); letter-spacing: -.035em; }
+.page p { line-height: 1.6; color: var(--muted); }
+.section { min-width: 0; padding: 1.25rem; background: var(--white); border: 1px solid var(--line); border-radius: .75rem; }
+.link { display: inline-flex; align-items: center; min-height: 2.75rem; color: var(--deep-teal); font-weight: 700; text-underline-offset: .22em; }
+.form { display: grid; gap: .8rem; max-width: 44rem; }
+.form label { display: grid; gap: .35rem; font-weight: 700; }
+.form input, .form textarea, .form select { width: 100%; min-width: 0; min-height: 2.75rem; padding: .5rem .65rem; border: 1px solid #80979f; border-radius: .5rem; font: inherit; color: var(--navy); background: var(--white); }
+.form textarea { resize: vertical; }
+.form button { justify-self: start; min-height: 2.75rem; border: 1px solid var(--navy); padding: .5rem .75rem; background: var(--navy); color: white; font-weight: 700; cursor: pointer; }
+.form button:hover:enabled { background: var(--deep-teal); }
+.form button:disabled { opacity: .65; cursor: default; }
+.form [aria-invalid="true"] { border-color: #a32626; }
+.form .error { color: #a32626; }
+.form [role=status] { margin: 0; }
+
+.header { display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 1rem; margin-bottom: 1.5rem; }
+.header > div { min-width: 0; }
+.subtitle { margin: 0; max-width: 60ch; color: var(--muted); }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); gap: 1rem; margin: 0 0 1.5rem; padding: 0; list-style: none; }
+.stat { display: flex; flex-direction: column; gap: .35rem; min-width: 0; padding: 1rem 1.1rem; background: var(--white); border: 1px solid var(--line); border-top: 3px solid var(--teal); border-radius: .75rem; }
+.statLabel { color: var(--muted); font-size: .85rem; font-weight: 650; }
+.statValue { margin: 0; font-size: 1.8rem; font-weight: 750; line-height: 1.1; }
+.picker { flex: 0 1 22rem; width: 100%; min-width: 0; }
+.panel { min-width: 0; padding: 1.25rem; background: var(--white); border: 1px solid var(--line); border-radius: .75rem; }

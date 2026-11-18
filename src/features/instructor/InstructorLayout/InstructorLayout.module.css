@@ -1,0 +1,120 @@
+.shell {
+  min-height: 100dvh;
+  background: var(--paper);
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: var(--white);
+  border-bottom: 1px solid var(--line);
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: 15rem minmax(0, 1fr);
+  min-height: calc(100dvh - var(--header-height));
+}
+
+.sidebar {
+  position: sticky;
+  top: var(--header-height);
+  align-self: start;
+  height: calc(100dvh - var(--header-height));
+  min-width: 0;
+  overflow-y: auto;
+  background: var(--white);
+  border-inline-end: 1px solid var(--line);
+}
+
+.main {
+  min-width: 0;
+  padding: clamp(1.25rem, 3vw, 2.5rem) clamp(1rem, 4vw, 3rem);
+}
+
+.main:focus-visible {
+  outline-offset: -4px;
+}
+
+.content {
+  max-width: 72rem;
+  margin-inline: auto;
+}
+
+.notice {
+  display: flex;
+  align-items: center;
+  margin: 0 0 1.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-inline-start: 3px solid var(--teal);
+  border-radius: 0.5rem;
+  color: var(--deep-teal);
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.skip {
+  position: absolute;
+  top: 0.6rem;
+  inset-inline-start: 1rem;
+  z-index: 50;
+  padding: 0.7rem 1rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  transform: translateY(-175%);
+}
+
+.skip:focus {
+  transform: translateY(0);
+}
+
+.backdrop {
+  display: none;
+}
+
+@media (width < 64rem) {
+  .workspace {
+    display: block;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: var(--header-height);
+    bottom: 0;
+    inset-inline-start: 0;
+    z-index: 40;
+    width: min(18rem, 85vw);
+    height: auto;
+    border-inline-end: 1px solid var(--line);
+    box-shadow: 0 0 2rem rgb(0 0 0 / 0.12);
+    transform: translateX(-100%);
+    visibility: hidden;
+    transition: transform 0.25s ease, visibility 0s linear 0.25s;
+  }
+
+  .sidebar[data-open="true"] {
+    transform: translateX(0);
+    visibility: visible;
+    transition: transform 0.25s ease, visibility 0s;
+  }
+
+  .backdrop {
+    display: block;
+    position: fixed;
+    inset: var(--header-height) 0 0 0;
+    z-index: 35;
+    background: rgb(0 0 0 / 0.35);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sidebar,
+  .sidebar[data-open="true"] {
+    transition: none;
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "checks": [
+    {
+      "name": "route /admin",
+      "pass": true,
+      "detail": "200 / h1=\"Overview\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/users",
+      "pass": true,
+      "detail": "200 / h1=\"User Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/courses",
+      "pass": true,
+      "detail": "200 / h1=\"Course Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/dictionary",
+      "pass": true,
+      "detail": "200 / h1=\"Dictionary Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/interpreting",
+      "pass": true,
+      "detail": "200 / h1=\"Interpreting Request Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/payments",
+      "pass": true,
+      "detail": "200 / h1=\"Payments Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/certificates",
+      "pass": true,
+      "detail": "200 / h1=\"Certificates Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/content",
+      "pass": true,
+      "detail": "200 / h1=\"Website Content Management\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /admin/reports",
+      "pass": true,
+      "detail": "200 / h1=\"Reports & Activity Monitoring\" / siteHeader=1 siteFooter=0 siteNav=1 main=1"
+    },
+    {
+      "name": "route /",
+      "pass": true,
+      "detail": "200 / h1=\"Every sign isa connection.\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /courses",
+      "pass": true,
+      "detail": "200 / h1=\"Courses\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /courses/beginner",
+      "pass": true,
+      "detail": "200 / h1=\"Beginner Rwanda Sign Language\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /courses/beginner/learn",
+      "pass": true,
+      "detail": "200 / h1=\"Classroom preview\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /auth",
+      "pass": true,
+      "detail": "200 / h1=\"Your learning starts here.\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /dictionary",
+      "pass": true,
+      "detail": "200 / h1=\"Rwanda Sign Language Digital Dictionary\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /dictionary/family",
+      "pass": true,
+      "detail": "200 / h1=\"Family\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /interpreting",
+      "pass": true,
+      "detail": "200 / h1=\"Rwanda Sign Language Interpreting Services\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /resources",
+      "pass": true,
+      "detail": "200 / h1=\"Learning Resources\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /community",
+      "pass": true,
+      "detail": "200 / h1=\"RSL-ELP Community\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /blog",
+      "pass": true,
+      "detail": "200 / h1=\"Blog & News\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "route /contact",
+      "pass": true,
+      "detail": "200 / h1=\"Contact RSL-ELP\" / siteHeader=1 siteFooter=1 siteNav=2 main=1"
+    },
+    {
+      "name": "one public Header and Footer",
+      "pass": true,
+      "detail": "/:H1/F1 /courses:H1/F1 /courses/beginner:H1/F1 /courses/beginner/learn:H1/F1 /auth:H1/F1 /dictionary:H1/F1 /dictionary/family:H1/F1 /interpreting:H1/F1 /resources:H1/F1 /community:H1/F1 /blog:H1/F1 /contact:H1/F1"
+    },
+    {
+      "name": "one admin Topbar and Sidebar",
+      "pass": true,
+      "detail": "/admin:H1/N1/F0 /admin/users:H1/N1/F0 /admin/courses:H1/N1/F0 /admin/dictionary:H1/N1/F0 /admin/interpreting:H1/N1/F0 /admin/payments:H1/N1/F0 /admin/certificates:H1/N1/F0 /admin/content:H1/N1/F0 /admin/reports:H1/N1/F0"
+    },
+    {
+      "name": "Users active-route highlighting",
+      "pass": true,
+      "detail": "Users:page"
+    },
+    {
+      "name": "child route uses location state",
+      "pass": true,
+      "detail": "Courses:location"
+    },
+    {
+      "name": "page heading",
+      "pass": true,
+      "detail": "User Management"
+    },
+    {
+      "name": "page description",
+      "pass": true,
+      "detail": "exact description present"
+    },
+    {
+      "name": "preview notice",
+      "pass": true,
+      "detail": "exact notice present"
+    },
+    {
+      "name": "table columns",
+      "pass": true,
+      "detail": "Full name | Email address | Assigned role | Account status | Action"
+    },
+    {
+      "name": "four synthetic records",
+      "pass": true,
+      "detail": "4 rows; first=\"Sample Student 01 student-01@example.test Student Active View details\""
+    },
+    {
+      "name": "non-deliverable example addresses",
+      "pass": true,
+      "detail": "4 @example.test addresses"
+    },
+    {
+      "name": "heading hierarchy",
+      "pass": true,
+      "detail": "User Management > User directory > Role & permission overview > Student > Instructor > Administrator"
+    },
+    {
+      "name": "search by name",
+      "pass": true,
+      "detail": "1 row"
+    },
+    {
+      "name": "search by email",
+      "pass": true,
+      "detail": "1 row"
+    },
+    {
+      "name": "combined role + status filter",
+      "pass": true,
+      "detail": "1 row"
+    },
+    {
+      "name": "empty results message",
+      "pass": true,
+      "detail": "0 rows + message"
+    },
+    {
+      "name": "results count announcement",
+      "pass": true,
+      "detail": "role=status"
+    },
+    {
+      "name": "clear filters",
+      "pass": true,
+      "detail": "4 rows, controls reset"
+    },
+    {
+      "name": "filter options",
+      "pass": true,
+      "detail": "{\"role\":[\"All roles\",\"Student\",\"Instructor\",\"Administrator\"],\"status\":[\"All statuses\",\"Active\",\"Inactive\",\"Preview\"]}"
+    },
+    {
+      "name": "keyboard navigation + visible focus",
+      "pass": true,
+      "detail": "{\"tag\":\"SELECT\",\"text\":\"All rolesStudentInstructorAdministrator\",\"id\":\"users-role-filter\",\"focusVisible\":true,\"outline\":\"3px\"}"
+    },
+    {
+      "name": "details focus management",
+      "pass": true,
+      "detail": "{\"tag\":\"H2\",\"text\":\"User details\",\"id\":\"user-details\",\"focusVisible\":false,\"outline\":\"3px\"}"
+    },
+    {
+      "name": "details fields",
+      "pass": true,
+      "detail": "Full name Sample Student 01 Email address student-01@example.test Assigned role Student Account status Active"
+    },
+    {
+      "name": "student responsibilities",
+      "pass": true,
+      "detail": "6: Enroll in available courses; Access lessons and learning materials; Complete quizzes; Track course progress; View certificates; View payment history"
+    },
+    {
+      "name": "return to directory",
+      "pass": true,
+      "detail": "heading focused, 4 rows"
+    },
+    {
+      "name": "responsibilities for instructor-01@example.test",
+      "pass": true,
+      "detail": "4 items, includes \"Monitor student learning progress\""
+    },
+    {
+      "name": "responsibilities for administrator-01@example.test",
+      "pass": true,
+      "detail": "8 items, includes \"View reports and activity\""
+    },
+    {
+      "name": "permission overview all roles",
+      "pass": true,
+      "detail": "three roles + backend caveat"
+    },
+    {
+      "name": "add form no-account notice",
+      "pass": true,
+      "detail": "notice present"
+    },
+    {
+      "name": "add-form focus",
+      "pass": true,
+      "detail": "{\"tag\":\"H2\",\"text\":\"Add User Preview\",\"id\":\"user-editor-title\",\"focusVisible\":false,\"outline\":\"3px\"}"
+    },
+    {
+      "name": "empty-name validation",
+      "pass": true,
+      "detail": "Enter a sample full name of up to 100 characters. / focus=preview-user-name"
+    },
+    {
+      "name": "error alert semantics",
+      "pass": true,
+      "detail": "role=alert"
+    },
+    {
+      "name": "example.test validation",
+      "pass": true,
+      "detail": "Use an example.test address for this preview."
+    },
+    {
+      "name": "duplicate email validation",
+      "pass": true,
+      "detail": "This sample email is already in the preview directory."
+    },
+    {
+      "name": "valid add shows details",
+      "pass": true,
+      "detail": "Full name Sample Tester 09 Email address tester-09@example.test Assigned role Student Account status Preview"
+    },
+    {
+      "name": "no-account feedback",
+      "pass": true,
+      "detail": "feedback shown"
+    },
+    {
+      "name": "new record in directory",
+      "pass": true,
+      "detail": "5 rows"
+    },
+    {
+      "name": "no browser storage writes",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "state resets after reload",
+      "pass": true,
+      "detail": "4 rows"
+    },
+    {
+      "name": "edit form prefilled",
+      "pass": true,
+      "detail": "values prefilled"
+    },
+    {
+      "name": "edit email validation",
+      "pass": true,
+      "detail": "Use an example.test address for this preview."
+    },
+    {
+      "name": "edit applied locally",
+      "pass": true,
+      "detail": "User details Demonstration record. Account status and role are illustrative. Full name Sample Student Edited Email address student-01-updated@example.test Assigned role Instructor Account status Activ"
+    },
+    {
+      "name": "edit resets after reload",
+      "pass": true,
+      "detail": "original record restored"
+    },
+    {
+      "name": "cancel edit",
+      "pass": true,
+      "detail": "details unchanged"
+    },
+    {
+      "name": "axe scan (directory)",
+      "pass": true,
+      "detail": "0 violations, 29 passes, 0 incomplete"
+    },
+    {
+      "name": "axe scan (details)",
+      "pass": true,
+      "detail": "0 violations, 26 passes, 0 incomplete"
+    },
+    {
+      "name": "axe scan (add form)",
+      "pass": true,
+      "detail": "0 violations, 27 passes, 0 incomplete"
+    },
+    {
+      "name": "all controls labelled",
+      "pass": true,
+      "detail": "directory controls"
+    },
+    {
+      "name": "reduced motion",
+      "pass": true,
+      "detail": "{\"animated\":0,\"scrollBehavior\":\"auto\"}"
+    },
+    {
+      "name": "responsive 320px",
+      "pass": true,
+      "detail": "{\"inner\":320,\"scroll\":320,\"regionClient\":288,\"regionScroll\":576,\"toggleVisible\":true,\"sidebarInView\":false,\"offenders\":0}"
+    },
+    {
+      "name": "responsive 390px",
+      "pass": true,
+      "detail": "{\"inner\":390,\"scroll\":390,\"regionClient\":351,\"regionScroll\":576,\"toggleVisible\":true,\"sidebarInView\":false,\"offenders\":0}"
+    },
+    {
+      "name": "responsive 768px",
+      "pass": true,
+      "detail": "{\"inner\":768,\"scroll\":768,\"regionClient\":691,\"regionScroll\":691,\"toggleVisible\":true,\"sidebarInView\":false,\"offenders\":0}"
+    },
+    {
+      "name": "responsive 1024px",
+      "pass": true,
+      "detail": "{\"inner\":1024,\"scroll\":1024,\"regionClient\":670,\"regionScroll\":670,\"toggleVisible\":false,\"sidebarInView\":true,\"offenders\":0}"
+    },
+    {
+      "name": "responsive 1280px",
+      "pass": true,
+      "detail": "{\"inner\":1280,\"scroll\":1280,\"regionClient\":900,\"regionScroll\":900,\"toggleVisible\":false,\"sidebarInView\":true,\"offenders\":0}"
+    },
+    {
+      "name": "responsive 1440px",
+      "pass": true,
+      "detail": "{\"inner\":1440,\"scroll\":1440,\"regionClient\":1044,\"regionScroll\":1044,\"toggleVisible\":false,\"sidebarInView\":true,\"offenders\":0}"
+    },
+    {
+      "name": "mobile sidebar open/escape",
+      "pass": true,
+      "detail": "open focus=Overview, close focus=Open menu"
+    },
+    {
+      "name": "no console errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no page exceptions",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no HTTP 4xx/5xx",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no unexpected failed requests",
+      "pass": true,
+      "detail": "0 unexpected, 74 navigation/prefetch cancellations (ERR_ABORTED)"
+    },
+    {
+      "name": "no backend write requests",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "routes": [
+    {
+      "path": "/admin",
+      "status": 200,
+      "h1": "Overview",
+      "headers": 2,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Overview:page"
+    },
+    {
+      "path": "/admin/users",
+      "status": 200,
+      "h1": "User Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Users:page"
+    },
+    {
+      "path": "/admin/courses",
+      "status": 200,
+      "h1": "Course Management",
+      "headers": 2,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Courses:page"
+    },
+    {
+      "path": "/admin/dictionary",
+      "status": 200,
+      "h1": "Dictionary Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Dictionary:page"
+    },
+    {
+      "path": "/admin/interpreting",
+      "status": 200,
+      "h1": "Interpreting Request Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Interpreting:page"
+    },
+    {
+      "path": "/admin/payments",
+      "status": 200,
+      "h1": "Payments Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Payments:page"
+    },
+    {
+      "path": "/admin/certificates",
+      "status": 200,
+      "h1": "Certificates Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Certificates:page"
+    },
+    {
+      "path": "/admin/content",
+      "status": 200,
+      "h1": "Website Content Management",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Content:page"
+    },
+    {
+      "path": "/admin/reports",
+      "status": 200,
+      "h1": "Reports & Activity Monitoring",
+      "headers": 1,
+      "footers": 0,
+      "mains": 1,
+      "navs": 1,
+      "siteHeaders": 1,
+      "siteFooters": 0,
+      "siteNavs": 1,
+      "current": "Reports:page"
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "h1": "Every sign isa connection.",
+      "headers": 1,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Home:location"
+    },
+    {
+      "path": "/courses",
+      "status": 200,
+      "h1": "Courses",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Courses:page"
+    },
+    {
+      "path": "/courses/beginner",
+      "status": 200,
+      "h1": "Beginner Rwanda Sign Language",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 3,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Courses:location, Course overview:page"
+    },
+    {
+      "path": "/courses/beginner/learn",
+      "status": 200,
+      "h1": "Classroom preview",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 4,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Courses:location, Classroom preview:page, 01 Introduction:step"
+    },
+    {
+      "path": "/auth",
+      "status": 200,
+      "h1": "Your learning starts here.",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Get Started:page"
+    },
+    {
+      "path": "/dictionary",
+      "status": 200,
+      "h1": "Rwanda Sign Language Digital Dictionary",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Dictionary:page"
+    },
+    {
+      "path": "/dictionary/family",
+      "status": 200,
+      "h1": "Family",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 3,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Dictionary:location"
+    },
+    {
+      "path": "/interpreting",
+      "status": 200,
+      "h1": "Rwanda Sign Language Interpreting Services",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": "Interpreting:page"
+    },
+    {
+      "path": "/resources",
+      "status": 200,
+      "h1": "Learning Resources",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": ""
+    },
+    {
+      "path": "/community",
+      "status": 200,
+      "h1": "RSL-ELP Community",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": ""
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "h1": "Blog & News",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": ""
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "h1": "Contact RSL-ELP",
+      "headers": 2,
+      "footers": 1,
+      "mains": 1,
+      "navs": 2,
+      "siteHeaders": 1,
+      "siteFooters": 1,
+      "siteNavs": 2,
+      "current": ""
+    }
+  ],
+  "responsive": [
+    {
+      "width": 320,
+      "inner": 320,
+      "scroll": 320,
+      "regionClient": 288,
+      "regionScroll": 576,
+      "toggleVisible": true,
+      "sidebarInView": false,
+      "offenders": 0
+    },
+    {
+      "width": 390,
+      "inner": 390,
+      "scroll": 390,
+      "regionClient": 351,
+      "regionScroll": 576,
+      "toggleVisible": true,
+      "sidebarInView": false,
+      "offenders": 0
+    },
+    {
+      "width": 768,
+      "inner": 768,
+      "scroll": 768,
+      "regionClient": 691,
+      "regionScroll": 691,
+      "toggleVisible": true,
+      "sidebarInView": false,
+      "offenders": 0
+    },
+    {
+      "width": 1024,
+      "inner": 1024,
+      "scroll": 1024,
+      "regionClient": 670,
+      "regionScroll": 670,
+      "toggleVisible": false,
+      "sidebarInView": true,
+      "offenders": 0
+    },
+    {
+      "width": 1280,
+      "inner": 1280,
+      "scroll": 1280,
+      "regionClient": 900,
+      "regionScroll": 900,
+      "toggleVisible": false,
+      "sidebarInView": true,
+      "offenders": 0
+    },
+    {
+      "width": 1440,
+      "inner": 1440,
+      "scroll": 1440,
+      "regionClient": 1044,
+      "regionScroll": 1044,
+      "toggleVisible": false,
+      "sidebarInView": true,
+      "offenders": 0
+    }
+  ],
+  "axe": [
+    {
+      "label": "directory",
+      "violations": [],
+      "passes": 29,
+      "incomplete": 0
+    },
+    {
+      "label": "details",
+      "violations": [],
+      "passes": 26,
+      "incomplete": 0
+    },
+    {
+      "label": "add form",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 0
+    }
+  ],
+  "console": [],
+  "pageErrors": [],
+  "httpErrors": [],
+  "failedRequests": [],
+  "abortedRequests": [
+    "net::ERR_ABORTED http://127.0.0.1:3217/?_rsc=b0DaubGlXzlQERL9",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/users?_rsc=kOzFVbd7Ohj8dQWC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/courses?_rsc=-H6hOIm-DCq1J1v2",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/dictionary?_rsc=oVDN8OGBxsrRC6sT",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/reports?_rsc=vuiTUttIGin-ExZ4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/_next/static/chunks/16i6oz1h86wnn.js",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/certificates?_rsc=hfGfKaE08XrluiMp",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/content?_rsc=tn0Rxu3-H22d-Rej",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/reports?_rsc=hJ7lLW8TZWdFcSbq",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/dictionary?_rsc=1dF0MnQ5R2xra-Je",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/interpreting?_rsc=Xa_WSDX7WLsIywkh",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/certificates?_rsc=1mnyjW5iyzCH8vVs",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/content?_rsc=AP8eTGPyv2E0EM33",
+    "net::ERR_ABORTED http://127.0.0.1:3217/?_rsc=xtJBgaTycXR3AqGJ",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin?_rsc=5--gbBkO_dxLhhIw",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/users?_rsc=31x7diEaCuayyQpa",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/courses?_rsc=5kD6JhKgDiPjhOEA",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/dictionary?_rsc=Zlk_VULzYtpjeHKk",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/interpreting?_rsc=_TdYbnofbtlj6fQC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/payments?_rsc=SrqSuaBvAmU2_l52",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/certificates?_rsc=EgAHllxnOM_DVCOJ",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/?_rsc=Z-IaLvD_JPa6i9JC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/courses?_rsc=Z-IaLvD_JPa6i9JC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/dictionary?_rsc=Z-IaLvD_JPa6i9JC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/interpreting?_rsc=Z-IaLvD_JPa6i9JC",
+    "net::ERR_ABORTED http://127.0.0.1:3217/icon.svg?icon.1nb_ydkjb-gzg.svg",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/video1.mp4",
+    "net::ERR_ABORTED http://127.0.0.1:3217/?_rsc=Cm2Aj9NlBMan_OFb",
+    "net::ERR_ABORTED http://127.0.0.1:3217/courses?_rsc=6kfwei8E7F3fkfFn",
+    "net::ERR_ABORTED http://127.0.0.1:3217/dictionary?_rsc=6cbsNDEVhRncAi89",
+    "net::ERR_ABORTED http://127.0.0.1:3217/interpreting?_rsc=3QhW8k4BLluF55ip",
+    "net::ERR_ABORTED http://127.0.0.1:3217/courses?_rsc=nAkUeu5D4qUB2GgE",
+    "net::ERR_ABORTED http://127.0.0.1:3217/dictionary?_rsc=kb1iaBWrY0gGfi6z",
+    "net::ERR_ABORTED http://127.0.0.1:3217/_next/static/chunks/14yqvty7e801v.css",
+    "net::ERR_ABORTED http://127.0.0.1:3217/interpreting?_rsc=UnmqsefnfMyEeOI_",
+    "net::ERR_ABORTED http://127.0.0.1:3217/resources?_rsc=2b1h_Y_82rjAgsGy",
+    "net::ERR_ABORTED http://127.0.0.1:3217/auth?_rsc=145YjET63ig30UNx",
+    "net::ERR_ABORTED http://127.0.0.1:3217/?_rsc=JOGXks2-E6llPqXF",
+    "net::ERR_ABORTED http://127.0.0.1:3217/_next/static/chunks/3z4hdsv0payfx.css",
+    "net::ERR_ABORTED http://127.0.0.1:3217/courses?_rsc=MbP9aS4EByG1RXbj",
+    "net::ERR_ABORTED http://127.0.0.1:3217/_next/static/chunks/1jhnk0legslie.css",
+    "net::ERR_ABORTED http://127.0.0.1:3217/dictionary/family?_rsc=-ZQp_V_1tAcwG58i",
+    "net::ERR_ABORTED http://127.0.0.1:3217/dictionary?_rsc=kHEsiCquc-GrUa-o",
+    "net::ERR_ABORTED http://127.0.0.1:3217/interpreting?_rsc=QU_Sd6nLpgyeAN0R",
+    "net::ERR_ABORTED http://127.0.0.1:3217/auth?_rsc=_oFnEV1xhEQ_JeP6",
+    "net::ERR_ABORTED http://127.0.0.1:3217/interpreting?_rsc=GwA01cMKDZcFBBVp",
+    "net::ERR_ABORTED http://127.0.0.1:3217/auth?_rsc=DGiaWi_mdzvSjIWO",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin?_rsc=DxkfiS-p4tN4BUqD",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/users?_rsc=DxkfiS-p4tN4BUqD",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/courses?_rsc=DxkfiS-p4tN4BUqD",
+    "net::ERR_ABORTED http://127.0.0.1:3217/admin/dictionary?_rsc=DxkfiS-p4tN4BUqD"
+  ],
+  "nonGetRequests": [],
+  "storageWrites": []
+}

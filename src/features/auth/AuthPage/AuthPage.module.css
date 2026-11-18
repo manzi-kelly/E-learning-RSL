@@ -49,6 +49,60 @@
 .modes [aria-pressed="true"] { border-bottom-color: var(--deep-teal); }
 .notice { margin: 0 0 1.4rem; color: var(--muted); font-size: .9rem; line-height: 1.55; }
 
+.demo {
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.demo h3 {
+  margin: 0 0 .4rem;
+  font-size: 1.05rem;
+  letter-spacing: -.02em;
+}
+
+.demo > p {
+  margin: 0 0 .9rem;
+  color: var(--muted);
+  font-size: .82rem;
+  line-height: 1.5;
+}
+
+.demo ul {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.demo li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-block: .7rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.demoRole { margin: 0; font-size: .85rem; font-weight: 720; }
+.demoEmail { margin: .15rem 0 0; color: var(--muted); font-size: .8rem; }
+
+.demo li button {
+  flex: none;
+  min-height: 2.25rem;
+  padding-inline: .85rem;
+  border: 1px solid var(--deep-teal);
+  background: transparent;
+  color: var(--deep-teal);
+  font-weight: 720;
+  cursor: pointer;
+}
+
+.demo li button:hover {
+  background: var(--deep-teal);
+  color: var(--white);
+}
+
 @media (width < 48rem) {
   .page { background: var(--white); }
   .inner { grid-template-columns: minmax(0, 1fr); gap: 2rem; padding-block: 0 3rem; }

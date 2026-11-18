@@ -1,0 +1,4 @@
+.assignment { margin-top: 1.25rem; max-width: 55ch; }
+.assignment h3 { margin: 0 0 .7rem; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.assignment p { color: var(--muted); }

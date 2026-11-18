@@ -1,0 +1,140 @@
+.header {
+  composes: header from "../Workspace.module.css";
+}
+
+.title {
+  margin: 0 0 0.25rem;
+}
+
+.subtitle {
+  composes: subtitle from "../Workspace.module.css";
+}
+
+.badge {
+  flex-shrink: 0;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--deep-teal);
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+/* Course list */
+.rows {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.cardText {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.meta {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.cardLink {
+  margin-top: auto;
+  padding-top: 0.5rem;
+  font-weight: 600;
+}
+
+/* Course details */
+.stats {
+  composes: stats from "../Workspace.module.css";
+}
+
+.stat {
+  composes: stat from "../Workspace.module.css";
+}
+
+.statLabel {
+  composes: statLabel from "../Workspace.module.css";
+}
+
+.statValue {
+  composes: statValue from "../Workspace.module.css";
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(14rem, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.panel {
+  display: grid;
+  gap: 0.75rem;
+  padding: 1.25rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+}
+
+.panelTitle {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.lessons {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.action {
+  padding: 0.6rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.action:hover {
+  background: var(--paper);
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}

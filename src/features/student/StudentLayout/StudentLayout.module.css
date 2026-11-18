@@ -1,0 +1,8 @@
+.shell { composes: shell from "../../admin/AdminLayout/AdminLayout.module.css"; }
+.workspace { composes: workspace from "../../admin/AdminLayout/AdminLayout.module.css"; }
+.sidebar { composes: sidebar from "../../admin/AdminLayout/AdminLayout.module.css"; }
+.main { min-width: 0; padding: clamp(2rem, 4vw, 3.5rem) clamp(1rem, 5vw, 5rem) clamp(3rem, 6vw, 5rem); }
+.main:focus-visible { outline-offset: -4px; }
+.content { max-width: 76rem; }
+.notice { margin: 0 0 1.6rem; padding-inline-start: .85rem; border-inline-start: 3px solid var(--teal); color: var(--deep-teal); line-height: 1.6; font-weight: 650; max-width: 56ch; }
+.skip { composes: skip from "../../admin/AdminLayout/AdminLayout.module.css"; }

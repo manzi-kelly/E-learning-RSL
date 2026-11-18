@@ -1,0 +1,6 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.form { composes: form from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.related { min-inline-size: 0; display: flex; flex-wrap: wrap; gap: .35rem 1rem; margin: 0; padding: .5rem 0; border: 0; }
+.related legend { font-weight: 700; }
+.related label { display: inline-flex; align-items: center; min-height: 2.75rem; }

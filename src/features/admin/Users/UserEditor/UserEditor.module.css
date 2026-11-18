@@ -1,0 +1,8 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.form { composes: form from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.actions { display: flex; flex-wrap: wrap; gap: .75rem; }
+.cancel { min-height: 2.75rem; padding: .45rem .7rem; border: 1px solid var(--navy); color: var(--navy); background: var(--white); cursor: pointer; }
+.form [aria-invalid="true"] { border-color: #a32626; }
+.error { margin: 0; color: #a32626; }
+

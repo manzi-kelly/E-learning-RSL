@@ -1,0 +1,2 @@
+.page { composes: page from "../../ManagementPreview.module.css"; }
+.notice { composes: notice from "../../ManagementPreview.module.css"; }

@@ -6,7 +6,6 @@ import styles from "./LearningPathways.module.css";
 
 
 const coreCourses = courses.filter((course) => course.level !== "Specialized");
-const specializedCourses = courses.filter((course) => course.level === "Specialized");
 
 function CoursePreview({ id, title, level }: { id: string; title: string; level: string }) {
   return (
@@ -38,7 +37,6 @@ export default function LearningPathways() {
           <div className={styles.introAside}>
             <p className={styles.intro}>Explore the planned course categories. Enrollment is unavailable.</p>
             <Link className={styles.allLink} href="/courses">View the full catalogue <span aria-hidden="true">↗</span></Link>
-            <a className={styles.allLink} href="#specialized-pathways">Specialized pathways <span aria-hidden="true">↓</span></a>
           </div>
         </div>
 
@@ -50,23 +48,6 @@ export default function LearningPathways() {
               </li>
             ))}
           </ul>
-
-          <div id="specialized-pathways" tabIndex={-1} className={styles.specialized}>
-            <h3>Specialized pathways</h3>
-            <ul className={`${layout.rows} ${styles.specializedRows}`} role="list">
-              {specializedCourses.map((course, index) => (
-                <li key={course.id} data-section-reveal>
-                  <Link href={`/courses/${course.id}`}>
-                    <span className={styles.specializedIndex} aria-hidden="true">0{index + 4}</span>
-                    <span className={styles.specializedTitle}>{course.title}</span>
-                    <span className={styles.specializedAction}>
-                      Explore <span aria-hidden="true">↗</span>
-                    </span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
         </SectionMotion>
       </div>
     </section>

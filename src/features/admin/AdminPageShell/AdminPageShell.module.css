@@ -1,0 +1,33 @@
+.page { composes: overview from "../Overview/Overview.module.css"; }
+.intro { composes: intro from "../Overview/Overview.module.css"; }
+.introTop { composes: introTop from "../Overview/Overview.module.css"; }
+.title { composes: title from "../Overview/Overview.module.css"; }
+.badge { composes: badge from "../Overview/Overview.module.css"; }
+.notice { composes: notice from "../Overview/Overview.module.css"; }
+.panel { composes: panel from "../Overview/Overview.module.css"; }
+.panelHeader { composes: panelHeader from "../Overview/Overview.module.css"; }
+.panelTitle { composes: panelTitle from "../Overview/Overview.module.css"; }
+.count { composes: count from "../Overview/Overview.module.css"; }
+
+.description {
+  max-width: 60ch;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.back { margin-bottom: 0.65rem; }
+
+.panelActions {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.panelBody {
+  display: grid;
+  gap: 1rem;
+}
+
+.panelBody > :first-child { margin-top: 0; }

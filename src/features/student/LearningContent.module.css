@@ -1,0 +1,135 @@
+/*
+  Shared base styles for the student pages.
+
+  Every selector uses :where() so it has near-zero specificity.
+  That means page modules (.record, .course, .eyebrow, .primary ...)
+  always win, whatever order the CSS files load in.
+*/
+
+/* ---------- Page ---------- */
+:where(.page) {
+  max-width: 76rem;
+}
+
+:where(.page) h1 {
+  margin: 0 0 .75rem;
+  font-size: clamp(2rem, 3.2vw, 2.75rem);
+  font-weight: 750;
+  letter-spacing: -.035em;
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+:where(.page) h2 {
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+  font-weight: 720;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+}
+
+:where(.page) h3 {
+  font-size: 1.0625rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+:where(.page) p {
+  max-width: 68ch;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/* ---------- Sections ---------- */
+:where(.section) {
+  margin-top: 2rem;
+  padding-block: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+:where(.section) h2 {
+  margin-top: 0;
+}
+
+/* ---------- Links ---------- */
+:where(.link) {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  color: var(--deep-teal);
+  font-weight: 700;
+  text-underline-offset: .22em;
+  text-decoration-thickness: 1px;
+}
+
+:where(.link):hover {
+  text-decoration-thickness: 2px;
+}
+
+:where(.link):focus-visible {
+  outline: 2px solid var(--deep-teal);
+  outline-offset: 3px;
+  border-radius: .25rem;
+}
+
+/* ---------- Lists ---------- */
+
+/* Default: a clean stack. Cards or rows style themselves in their own module. */
+:where(.rows) {
+  display: grid;
+  gap: 1rem;
+  padding: 0;
+  margin: 1rem 0 0;
+  list-style: none;
+}
+
+:where(.rows) h2 {
+  margin: 0 0 .4rem;
+}
+
+/* Optional: classic ruled list. Use as className={`${ui.rows} ${ui.ruled}`} */
+:where(.ruled) {
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+:where(.ruled) > li {
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+/* ---------- Progress ---------- */
+:where(.progress) {
+  display: block;
+  width: min(100%, 23rem);
+  height: .8rem;
+  appearance: none;
+  -webkit-appearance: none;
+  border: 0;
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--line);
+  accent-color: var(--deep-teal);
+}
+
+:where(.progress)::-webkit-progress-bar {
+  background: var(--line);
+  border-radius: 999px;
+}
+
+:where(.progress)::-webkit-progress-value {
+  background: var(--deep-teal);
+  border-radius: 999px;
+}
+
+:where(.progress)::-moz-progress-bar {
+  background: var(--deep-teal);
+  border-radius: 999px;
+}
+
+/* ---------- Actions ---------- */
+:where(.actions) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .25rem 1.35rem;
+}

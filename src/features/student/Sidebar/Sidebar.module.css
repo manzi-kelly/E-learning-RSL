@@ -1,0 +1,4 @@
+.navigation { composes: sidebar from "../../admin/Sidebar/Sidebar.module.css"; }
+.link { composes: destination from "../../admin/Sidebar/Sidebar.module.css"; }
+.navigation .link[aria-current] { border-inline-start: 3px solid #a5ded6; background: #23475e; font-weight: 740; }
+.navigation .link:focus-visible { outline-color: #a5ded6; }

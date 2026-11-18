@@ -1,0 +1,6 @@
+.page { composes: page from "../../ManagementPreview.module.css"; }
+.notice { composes: notice from "../../ManagementPreview.module.css"; }
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; white-space: nowrap; }
+.filters { composes: form from "../../ManagementPreview.module.css"; grid-template-columns: repeat(auto-fit,minmax(min(100%, 13rem),1fr)); }
+

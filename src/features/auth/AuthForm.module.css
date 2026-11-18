@@ -1,43 +1,134 @@
-.form { display: grid; gap: 1.05rem; }
-.field { display: grid; gap: .4rem; }
-.field label { color: var(--navy); font-size: .875rem; font-weight: 680; }
-.field input {
+.field {
+  --danger: #b42318;
+
+  display: grid;
+  gap: 0.45rem;
+}
+
+.labelRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.labelRow label {
+  color: var(--navy);
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.control {
+  position: relative;
+}
+
+.control input {
   width: 100%;
   min-width: 0;
-  height: 2.9rem;
-  padding: .6rem .75rem;
-  border: 1px solid #81979e;
-  border-radius: 0;
+  min-height: 3rem;
+  padding: 0.7rem 3.25rem 0.7rem 0.95rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
   background: var(--white);
   color: var(--navy);
   font: inherit;
+  font-size: 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-.field input[aria-invalid] { border-color: #a32626; }
-.passwordRow { display: grid; grid-template-columns: minmax(0, 1fr) auto; }
-.passwordRow button {
-  min-width: 3.65rem;
-  min-height: 2.9rem;
-  border: 1px solid #81979e;
-  border-left: 0;
-  background: var(--paper);
+
+.control input::placeholder {
+  color: #8a9aa0;
+}
+
+.control input:hover:not(:disabled) {
+  border-color: #b9cccc;
+}
+
+.control input:focus-visible {
+  border-color: var(--teal);
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(46, 170, 160, 0.18);
+}
+
+.control input[aria-invalid="true"] {
+  border-color: var(--danger);
+}
+
+.control input[aria-invalid="true"]:focus-visible {
+  box-shadow: 0 0 0 4px rgba(180, 35, 24, 0.15);
+}
+
+.control input:disabled {
+  background: #f3f6f6;
+  cursor: not-allowed;
+}
+
+.toggle {
+  position: absolute;
+  top: 50%;
+  right: 0.45rem;
+  transform: translateY(-50%);
+  display: grid;
+  place-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0.55rem;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.toggle:hover:not(:disabled) {
+  background: rgba(46, 170, 160, 0.12);
   color: var(--deep-teal);
-  font-size: .83rem;
-  font-weight: 700;
-  cursor: pointer;
 }
-.passwordRow button:focus-visible, .field input:focus-visible { position: relative; z-index: 1; }
-.submit {
-  min-height: 3rem;
-  padding: .65rem 1rem;
-  border: 1px solid var(--navy);
-  background: var(--navy);
-  color: var(--white);
-  font-weight: 720;
-  cursor: pointer;
+
+.toggle[aria-pressed="true"] {
+  color: var(--deep-teal);
 }
-.submit:hover:enabled { background: var(--deep-teal); border-color: var(--deep-teal); }
-.submit:disabled { opacity: .65; cursor: default; }
-.error, .feedback { margin: 0; font-size: .875rem; line-height: 1.5; }
-.error { color: #a32626; font-weight: 650; }
-.feedback { color: var(--deep-teal); }
-.feedback:empty { display: none; }
+
+.toggle:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 1px;
+}
+
+.toggle:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.icon {
+  display: block;
+}
+
+.hint,
+.caps,
+.error {
+  margin: 0;
+  font-size: 0.83rem;
+  line-height: 1.5;
+}
+
+.hint {
+  color: var(--muted);
+}
+
+.caps {
+  color: #93560a;
+  font-weight: 650;
+}
+
+.error {
+  color: var(--danger);
+  font-weight: 600;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .control input,
+  .toggle {
+    transition: none;
+  }
+}

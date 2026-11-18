@@ -1,0 +1,6 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; }
+.rows { list-style: none; padding: 0; margin: 0; }
+.rows li { border-bottom: 1px solid var(--line); padding-block: .85rem; }
+.rows h3, .rows p { margin: 0 0 .45rem; }
+.button[aria-pressed="true"] { background: var(--deep-teal); }

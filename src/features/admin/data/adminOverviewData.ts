@@ -1,6 +1,4 @@
-import type { AdminModule, OverviewArea } from "../types/admin";
-
-export const plannedModules: readonly AdminModule[] = ["Users", "Dictionary", "Interpreting", "Payments", "Certificates", "Content", "Reports"];
+import type { OverviewArea } from "../types/admin";
 
 export const overviewAreas: readonly OverviewArea[] = [
   { title: "Users and permissions", description: "Manage user accounts and role permissions." },

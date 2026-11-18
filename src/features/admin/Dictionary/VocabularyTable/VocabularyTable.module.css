@@ -1,0 +1,3 @@
+.section { composes: section from "../../ManagementPreview.module.css"; }
+.scroll { composes: scroll from "../../ManagementPreview.module.css"; }
+.button { composes: button from "../../ManagementPreview.module.css"; white-space: nowrap; }

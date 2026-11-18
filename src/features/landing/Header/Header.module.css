@@ -4,11 +4,12 @@
   margin-inline: auto;
   padding-inline: var(--gutter);
   min-height: var(--header-height);
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   align-items: center;
-  justify-content: space-between;
   gap: 1rem;
 }
+.inner > :first-child { justify-self: start; }
 .nav { display: flex; align-items: center; gap: clamp(.75rem, 1.6vw, 1.65rem); font-size: .85rem; font-weight: 620; }
 .nav a { display: flex; align-items: center; min-height: 2.75rem; text-decoration: none; }
 .nav a:hover, .nav [aria-current] { color: var(--deep-teal); text-decoration: underline; text-underline-offset: .45em; text-decoration-thickness: 2px; }
@@ -23,18 +24,19 @@
   .nav a + a { border-top: 1px solid var(--line); }
 }
 
-.navigation { display: flex; align-items: center; gap: clamp(.75rem, 2vw, 2rem); }
-.cta { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding-inline: 1rem; background: var(--navy); color: var(--white); font-size: .85rem; font-weight: 720; text-decoration: none; white-space: nowrap; }
+.navigation { display: flex; align-items: center; justify-self: center; }
+.cta { display: inline-flex; align-items: center; justify-content: center; justify-self: end; min-height: 2.75rem; padding-inline: 1rem; background: var(--navy); color: var(--white); font-size: .85rem; font-weight: 720; text-decoration: none; white-space: nowrap; }
 .cta:hover, .cta[aria-current] { background: var(--deep-teal); }
 
 @media (width < 64rem) {
-  .navigation { gap: .5rem; }
-  .cta { padding-inline: .7rem; }
+  .inner { grid-template-columns: minmax(0, 1fr) auto auto; }
+  .navigation { justify-self: end; }
+  .cta { justify-self: end; padding-inline: .7rem; }
 }
 
 @media (width < 25rem) {
   .inner { gap: .4rem; }
-  .inner > a:not(.skip) { gap: .25rem; font-size: .825rem; }
+  .inner > a:not(.skip):not(.cta) { gap: .25rem; font-size: .825rem; }
   .inner > a > span:has(img) { width: 2.125rem; height: 2.125rem; }
   .toggle { gap: .3rem; padding-inline: .45rem; font-size: .85rem; }
 }

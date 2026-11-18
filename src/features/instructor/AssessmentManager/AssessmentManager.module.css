@@ -1,0 +1,65 @@
+.section {
+  composes: section from "../Workspace.module.css";
+}
+
+.header {
+  composes: header from "../Workspace.module.css";
+}
+
+.title {
+  margin: 0 0 0.25rem;
+}
+
+.subtitle {
+  composes: subtitle from "../Workspace.module.css";
+}
+
+.picker {
+  composes: picker from "../Workspace.module.css";
+}
+
+.stats {
+  composes: stats from "../Workspace.module.css";
+}
+
+.card {
+  composes: stat from "../Workspace.module.css";
+}
+
+.cardLabel {
+  composes: statLabel from "../Workspace.module.css";
+}
+
+.cardValue {
+  composes: statValue from "../Workspace.module.css";
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(14rem, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.side {
+  composes: panel from "../Workspace.module.css";
+}
+
+.sectionTitle {
+  margin: 0 0 1rem;
+  font-size: 1.1rem;
+}
+
+.notes {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}

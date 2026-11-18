@@ -1,13 +1,15 @@
-.directory h2 { font-size: 1.45rem; margin: 0 0 .5rem; letter-spacing: -.025em; }
+.directory { composes: section from "../../ManagementPreview.module.css"; }
+.directory h2 { margin: 0 0 .5rem; font-size: clamp(1.05rem, 1.7vw, 1.25rem); letter-spacing: -.02em; }
 .summary { max-width: 68ch; margin: 0 0 1rem; color: var(--muted); font-size: .9rem; line-height: 1.55; }
 .scroll { max-width: 100%; overflow-x: auto; }
 .scroll:focus-visible { outline-offset: -3px; }
 .scroll table { width: 100%; min-width: 34rem; border-collapse: collapse; text-align: start; }
 .scroll th, .scroll td { padding: .85rem .65rem; border-bottom: 1px solid var(--line); text-align: start; line-height: 1.4; }
-.scroll thead { background: var(--paper); font-size: .84rem; }
+.scroll thead { background: var(--white); font-size: .84rem; }
 .scroll tbody th { font-weight: 720; }
 .scroll td { font-size: .875rem; color: var(--muted); }
 .scroll td:last-child { white-space: nowrap; }
 .scroll a { display: inline-flex; min-height: 2.75rem; align-items: center; gap: .35rem; color: var(--deep-teal); font-weight: 700; text-underline-offset: .24em; }
+.scroll tbody tr:hover { background: var(--paper); }
 .instructions { display: none; margin: 0 0 .6rem; color: var(--muted); font-size: .875rem; }
 @media (width < 40rem) { .instructions { display: block; } }

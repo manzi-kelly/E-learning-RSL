@@ -9,7 +9,7 @@ export default function FinalCTA() {
         <h2 id="final-cta-title" className={layout.heading}>A more connected future starts with <em>one sign.</em></h2>
         <div className={styles.actions}>
           <Link href="/courses">Start exploring <span aria-hidden="true">↗</span></Link>
-          <Link href="/interpreting">Interpreting services</Link>
+          <Link href="/ways-to-learn#interpreting">Interpreting services</Link>
         </div>
       </div>
     </section>

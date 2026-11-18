@@ -1,0 +1,98 @@
+.form {
+  composes: form from "../Workspace.module.css";
+  display: grid;
+  gap: 1rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.labelText {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.required {
+  color: #a32626;
+}
+
+.control {
+  width: 100%;
+  padding: 0.6rem 0.85rem;
+  font: inherit;
+  color: inherit;
+  background-color: var(--white);
+  border: 1px solid #80979f;
+  border-radius: 0.75rem;
+}
+
+textarea.control {
+  resize: vertical;
+  min-height: 5rem;
+}
+
+select.control {
+  padding-right: 2.25rem;
+  appearance: none;
+  cursor: pointer;
+  background-image:
+    linear-gradient(45deg, transparent 50%, currentColor 50%),
+    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position:
+    calc(100% - 1.1rem) 50%,
+    calc(100% - 0.8rem) 50%;
+  background-size: 0.3rem 0.3rem;
+  background-repeat: no-repeat;
+}
+
+.control:hover {
+  border-color: rgba(128, 128, 128, 0.6);
+}
+
+.control:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.invalid {
+  border-color: #a32626;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.button {
+  padding: 0.6rem 1.1rem;
+  font: inherit;
+  font-weight: 600;
+  color: inherit;
+  background-color: var(--white);
+  border: 1px solid currentColor;
+  border-radius: 0.75rem;
+  cursor: pointer;
+}
+
+.button:hover:not(:disabled) {
+  background-color: rgba(128, 128, 128, 0.12);
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.feedback {
+  margin: 0;
+  min-height: 1.25rem;
+  font-size: 0.9rem;
+}
+
+.error {
+  color: #a32626 !important;
+}
